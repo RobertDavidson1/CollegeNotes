@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recap/Series + Sequences.md",
+                "file": "Recap/Recap Contents.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recap/Series + Sequences.md",
+                "file": "Recap/Recap Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recap/Series + Sequences.md",
+                "file": "Recap/Recap Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recap/Series + Sequences.md"
+                "file": "Recap/Recap Contents.md"
               }
             }
           }
@@ -151,15 +151,15 @@
   },
   "active": "b4f85e2510ef4fdf",
   "lastOpenFiles": [
+    "Recap/Number Properties.md",
     "Recap/Recap Contents.md",
-    "Recap/Set Properties.md",
     "Recap/Series + Sequences.md",
+    "Recap/Set Properties.md",
     "Recap/Number Theorems.md",
     "Recap/Types of Correspondence.md",
     "Recap/Untitled.md",
     "Recap/Series Properties.md",
     "Recap/Pasted image 20240327132702.png",
-    "Recap/Number Properties.md",
     "Recap/Pasted image 20240327195915.png",
     "Series/Convergence is a precise concept.md",
     "Series/Convergence of a sequence 2024-03-13 12.46.46.excalidraw.md",
