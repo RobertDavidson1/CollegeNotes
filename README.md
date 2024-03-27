@@ -1,1 +1,1 @@
-# UniObsidianNotes
+# University school notes
