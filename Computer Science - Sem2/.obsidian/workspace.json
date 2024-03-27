@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "1f38f4a932d2d97c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f41155fcc8206e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbff0a84337c5b9d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "83fc1afffb9a7b71",
+    "type": "split",
+    "children": [
+      {
+        "id": "b23c023f627054f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f56fe916c3f9323c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ffdeb4d5a86870dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2fd59c0ef4e892d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7d7c383c832ac0de",
+    "type": "split",
+    "children": [
+      {
+        "id": "928a529fe2b22def",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f6b93d4ecbb40ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "48a57d8fd7f901ef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bfd1307cb6eaa83",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5fb50a04443bc950",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "fbff0a84337c5b9d",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "Binary Search.md",
+    "Number Theory/Number Theory Contents.md",
+    "Number Theory/Supremum and Infimum.md",
+    "Algebra/Algebra Contents.md",
+    "Series",
+    "Number Theory/Untitled.md",
+    "Number Theory/Example Questions.md",
+    "Number Theory/The Axiom of Completeness.md",
+    "Number Theory/Maximum and Minimum Elements.md",
+    "Number Theory/Maximum and Minimum Elements 2024-03-05 19.05.55.excalidraw.md",
+    "Number Theory/Upper and Lower Bounds.md",
+    "Algebra/Sets of Sets.md",
+    "Algebra/Boolean Algebra.md",
+    "Algebra/Bijections of Partitions and Subsets.md",
+    "Algebra/Kernel and Equivalence Relation Explained.md",
+    "Algebra/Bijections and Inverse Functions.md",
+    "Algebra/Equivalence Relations are Partitions.md",
+    "Algebra/Injective and Surjective Functions.md",
+    "Algebra/Composition of Functions.md",
+    "Algebra/Functions are Relations.md",
+    "Algebra/Pasted image 20240301174908.png",
+    "Algebra/Reflexive, Symmetric and Transitive.md",
+    "Algebra/Product of Sets.md",
+    "Algebra/Summary - Functions, Permutations and Polynomials.md",
+    "Algebra/Rings.md",
+    "Algebra/Groups.md",
+    "Algebra/Products of Transpositions.md",
+    "Number Theory/Pasted image 20240229161601.png",
+    "Algebra/Pasted image 20240301141259.png",
+    "Algebra/Pasted image 20240301141054.png",
+    "Number Theory/Excalidraw",
+    "Algebra",
+    "Number Theory"
+  ]
+}

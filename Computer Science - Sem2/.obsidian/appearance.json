@@ -1,0 +1,10 @@
+{
+  "accentColor": "#0e8622",
+  "cssTheme": "Obsidian Nord",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "callouts"
+  ],
+  "translucency": false,
+  "baseFontSizeAction": true
+}
