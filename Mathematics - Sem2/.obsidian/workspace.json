@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ef45a1a892910fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recap/Series Properties.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b4f85e2510ef4fdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recap/Number Theorems.md",
+                "file": "Recap/Series + Sequences.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -62,8 +49,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "countable",
-                "matchingCase": false,
+                "query": "series ",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -79,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recap/Series Properties.md",
+                "file": "Recap/Series + Sequences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recap/Series Properties.md",
+                "file": "Recap/Series + Sequences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recap/Series Properties.md"
+                "file": "Recap/Series + Sequences.md"
               }
             }
           }
@@ -162,36 +148,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2ef45a1a892910fb",
+  "active": "b4f85e2510ef4fdf",
   "lastOpenFiles": [
-    "Recap/Pasted image 20240327195915.png",
-    "Recap/Recap Contents.md",
-    "Recap/Number Theorems.md",
-    "Recap/Series Properties.md",
     "Recap/Set Properties.md",
-    "Number Theory/Number Theory Contents.md",
-    "Series/Sequences and Series Contents.md",
-    "Series/Convergence of a sequence.md",
+    "Recap/Types of Correspondence.md",
+    "Recap/Recap Contents.md",
+    "Recap/Untitled.md",
+    "Recap/Series Properties.md",
+    "Recap/Series + Sequences.md",
+    "Recap/Pasted image 20240327132702.png",
+    "Recap/Number Theorems.md",
+    "Recap/Number Properties.md",
+    "Recap/Pasted image 20240327195915.png",
+    "Series/Convergence is a precise concept.md",
+    "Series/Convergence of a sequence 2024-03-13 12.46.46.excalidraw.md",
+    "Series/Examples of Series.md",
     "Series/Looking at specific sequences.md",
+    "Series/Monotone Convergence Theorem.md",
+    "Series/Pasted image 20240313122449.png",
+    "Series/Sequences and Series Contents.md",
     "Series/Visualising a sequence.md",
+    "Series/Ways for a sequence to be divergent.md",
+    "Probability/Probability Contents.md",
+    "Number Theory/Number Theory Contents.md",
+    "Series/Convergence of a sequence.md",
     "Algebra/Fundamental Theorem of Algebra.md",
     "Algebra/GCD of Polynomials.md",
-    "Recap/Untitled.md",
     "Probability/Conditional Probability.md",
-    "Recap/Number Properties.md",
     "Series/Convergence of a sequence 2024-03-13 12.55.04.excalidraw.md",
-    "Recap/Types of Correspondence.md",
-    "Probability/Probability Contents.md",
     "Algebra/Algebra Contents.md",
     "Number Theory/Injective, Surjective, Bijective.md",
-    "Recap/Pasted image 20240327132702.png",
     "Number Theory/The Axiom of Completeness.md",
-    "Number Theory/Bounded open intervals.md",
-    "Number Theory/Bounded and Unbounded Subsets of R.md",
     "Recap",
-    "Number Theory/Supremum and Infimum.md",
-    "Algebra/Fundamental Theorem of Calculus.md",
-    "Algebra/Fields.md",
     "Probability/Pasted image 20240322113636.png",
     "Probability/Pasted image 20240321162707.png",
     "Probability/Pasted image 20240321155824.png",
@@ -199,11 +187,9 @@
     "Indlucsuion",
     "Probability",
     "Series/Pasted image 20240313122719.png",
-    "Series/Pasted image 20240313122449.png",
     "Series/Pasted image 20240313122440.png",
     "Series",
     "Algebra/Pasted image 20240301174908.png",
-    "Number Theory/Pasted image 20240229161601.png",
     "Number Theory/Excalidraw",
     "Algebra",
     "Number Theory"

@@ -705,8 +705,8 @@ cc453acf547adbea925f878d24da93a178e194bc: $$L + \epsilon$$
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 707.0525512924403,
-		"scrollY": 523.5364871431608,
+		"scrollX": 670.9607544174403,
+		"scrollY": 489.2371707369108,
 		"zoom": {
 			"value": 2
 		},

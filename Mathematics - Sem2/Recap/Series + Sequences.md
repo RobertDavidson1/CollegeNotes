@@ -36,6 +36,7 @@ ___
 >>$$\Large \forall\epsilon > 0, \exists N \in \mathbb{N}\quad\text{for which}\quad |a_n - L| < \epsilon\;\forall n > N$$
 >
 >>[!eq] Visualization:
+>>
 >>![[Convergence of a sequence 2024-03-13 12.46.46.excalidraw | center | 600]]
 >
 >
@@ -168,62 +169,21 @@ ___
 >>- Where:
 >>	- **Interval of convergence:** $(-1,1)$
 >>	- **Radius of convergence:** $1$
-
->[!eq] Power series
->>[!eq] Definition
->>- Suppose that $f(x)$ is an infinitely differentiable function
->>- And suppose that $f$ is represented by the power series
->>$$\begin{array}{l}f(x) &= \sum_{n=0}^{\infty} c_n x^n \\&= c_0+c_1x+c_2x^2+c_3x^3+\cdots\end{array}$$
->
->>[!eq] Finding the constants $c_n$
->>*Finding $c_0$*
->>- Put $x=0$
->>- Then:
->>$$f(0) = c_0 + \sum_{n=1}^\infty c_n(0)^n \Rightarrow  c_0$$
->>
->>*Finding $c_1$*
->>- Look at first derivative of $f(0)$
->>
->>	$\begin{array}{l}f'(x)&=c_1+2c_2x+3c_3x^2+\cdots \\ f'(0) &= \mathrm{c_{1}+2c_{2}(0)+3c_{3}(0)+\cdots}\\&=c_{1}\end{array}$
->>
->>*Finding $c_2$*
->>- Look at the second derivative of $f(0)$
->>
->>	$\begin{array}{l}f''(x) &=2(1)c_2+3(2)c_3x+4(3)c_4x^2 +\dots\\ f''(0) &=2(1)c_2+3(2)c_3(0)+4(3)c_4(0)^2 +\dots=2(1)c_{2} \\f''(0) &= 2(1)c_2 \\ c_2 &= \dfrac{1}{2(1)}f''(0)\end{array}$
->>	
->>*Finding $c_3$*
->>- Look at the third  derivative of $f(0)$
->>
->>	$\begin{array}{l}f^{(3)}(x) &= 3(2)(1)c_3 + 4(3)(2)c_4x + 5(4)(3)c_5x^2 + \dots \\f^{(3)}(0) &= 3(2)(1)c_3 + 4(3)(2)c_4(0) + 5(4)(3)c_5(0)^2 + \dots = 3(2)(1)c_3 \\f''(0) &= (3)(2)(1)c_3\\c_3 &= \dfrac{1}{3(2)(1)}f^{(3)}(0)\end{array}$
->>
->><br>
->>
->>**$\text{Continuining this process, we find the general formula for}\; c_n:$**
->>$$\large c_n = \dfrac{1}{n!} f^n(0)$$
->
 >
 >>[!eq] Maclaurin Series
->>A power series that allows one to calculate an approximation of a function $f(x)$
->>>[!eq] Maclaurin series expansion of $e^x$
->>>$$\large c_n=\frac{1}{n!}\frac{\mathrm{d^n}}{\mathrm{dx^n}}\left.(e^x)\right|_{x=0}=\frac{1}{\mathrm{n!}}e^0=\frac{1}{\mathrm{n!}}.$$
->>>- Thus the Maclaurin series for $e^x$ is given by
->>>$$\sum_{\mathrm{n=0}}^{\infty}\frac{1}{\mathrm{n!}}x^{\mathrm{n}}$$
 >>
->>>[!eq]  Power series representation of sin x
->>>- Write $f(x) = \sin(x)$
->>>- Write $\sum_{n=0}^{\infty}c_{n}x^{n}$ for the Maclaurin series of $\sin(x)$
->>>- Then
->>>	- $f(0) = sin(0) = 0 \Rightarrow c_0 = 0$
->>>	- $f'(0) = cos(0) = 1 \Rightarrow c_1 = 1$
->>>	- $f''(0) = -sin(0) = 0 \Rightarrow c_2 = \frac{0}{2!} = 0$
->>>	-  $f^3(0) = -sin(0) = -1 \Rightarrow c_3 = \frac{-1}{3!} = -\frac{1}{6}$
->>>	-  $f^4(0) = sin(0) = -1 \Rightarrow c_4 = \frac{0}{4!} = 0$
->>>- This pattern continues:
->>>	- if $k$ is even, then $f^k(0) = \pm\sin0 = 0$, so $c_{k,even} = 0$
->>>	- if $k$ is odd and $k \equiv 1 \mod 4$ then $f^k(0) = cos(0) = 1$ and $c_k = \frac{1}{k!}$
->>>	- if $k$ is odd and $k \equiv 3 \mod 4$ then $f^k(0) = cos(0) = -1$ and $c_k = -\frac{1}{k!}$
->>>- Thus:
->>>$$\large\sum_{\mathrm{k}=0}^{\infty}\frac{(-1)^{\mathrm{k}}}{(2\mathrm{k}+1)!}\mathrm{x}^{2\mathrm{k}+1}=\mathrm{x}-\frac1{3!}\mathrm{x}^{3}+\frac1{5!}\mathrm{x}^{5}-\frac1{7!}\mathrm{x}^{7}+\ldots $$
+>>>[!eq] Power series representation of sin x 
+>>>- Write $f(x) = \sin(x)$ 
+>>>- Write $\sum_{n=0}^{\infty}c_{n}x^{n}$ for the Maclaurin series of $\sin(x)$ 
+>>>- Then 
+>>>	- $f(0) = sin(0) = 0 \Rightarrow c_0 = 0$ 
+>>>	- $f'(0) = cos(0) = 1 \Rightarrow c_1 = 1$ 
+>>>	- $f''(0) = -sin(0) = 0 \Rightarrow c_2 = \frac{0}{2!} = 0$ >>> - $f^3(0) = -sin(0) = -1 \Rightarrow c_3 = \frac{-1}{3!} = -\frac{1}{6}$ >>> - $f^4(0) = sin(0) = -1 \Rightarrow c_4 = \frac{0}{4!} = 0$ 
+>>>- This pattern continues: 
+>>>	- if $k$ is even, then $f^k(0) = \pm\sin0 = 0$, so $c_{k,even} = 0$ 
+>>>	- if $k$ is odd and $k \equiv 1 \mod 4$ then $f^k(0) = cos(0) = 1$ and $c_k = \frac{1}{k!}$ 
+>>>	- if $k$ is odd and $k \equiv 3 \mod 4$ then $f^k(0) = cos(0) = -1$ and $c_k = -\frac{1}{k!}$ 
+>>>- Thus: >>>$$\large\sum_{\mathrm{k}=0}^{\infty}\frac{(-1)^{\mathrm{k}}}{(2\mathrm{k}+1)!}\mathrm{x}^{2\mathrm{k}+1}=\mathrm{x}-\frac1{3!}\mathrm{x}^{3}+\frac1{5!}\mathrm{x}^{5}-\frac1{7!}\mathrm{x}^{7}+\ldots $$
 >>
 >>>[!eq]  Power series representation of cos x
 >>>- Write $f(x) = \cos(x)$
