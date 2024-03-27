@@ -1,0 +1,3 @@
+- *Bounded above*: if there exists a real number $M$ for which $a_n \geq M$ for all $n \in \mathbb{N}$
+- *Bounded below*: if there exists a real number $m$ for which $m \leq a_n$ for all $n \in \mathbb{N}$
+-  *Bounded*: if a sequences is bounded above and below

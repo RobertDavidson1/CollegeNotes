@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "cssTheme": "Catppuccin",
+  "baseFontSize": 23,
+  "enabledCssSnippets": [
+    "callouts",
+    "center_images"
+  ],
+  "translucency": false,
+  "baseFontSizeAction": true
+}
