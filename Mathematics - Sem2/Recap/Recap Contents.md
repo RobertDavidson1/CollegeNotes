@@ -1,5 +1,5 @@
 - [[Number Properties]]
+-  [[Number Theorems]]
 - [[Types of Correspondence]]
 - [[Set Properties]]
-- [[Series + Sequences]]
-- [[Number Theorems]]
+-  [[Series + Sequences]]

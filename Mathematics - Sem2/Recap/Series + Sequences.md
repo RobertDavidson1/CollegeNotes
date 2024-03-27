@@ -1,18 +1,17 @@
-- what is a sequence?
-- Divergent / Convergent
-- Monotonic 
-- Bounded
-- Infinite series
-	- Geometric, harmonic, alternating
-- Power series
-	- Maclaurin series expansion
-	- Taylor Series
-- Theorems
-	- For every real number x, the above series converges to sin x
-	- . If a sequence is convergent it must be bounded.
-	- If a sequence {an }∞ n=1 is monotonic and bounded, then it is convergent
-	- he harmonic series 1/n is divergent
-	- For every real number x, the Maclaurin converges to sin x.
+- [[#Sequence vs Series|Sequence vs Series]]
+- [[#Divergence / Convergence|Divergence / Convergence]]
+- [[#Increasing / Decreasing|Increasing / Decreasing]]
+- [[#Convergent Series|Convergent Series]]
+- [[#Infinite Series|Infinite Series]]
+- [[#Power series|Power series]]
+
+>[!eq] Theorems to add
+>- Theorems
+>	- For every real number x, the Maclaurin power series series converges to sin x
+>	- If a sequence is convergent it must be bounded.
+>	- If a sequence {an }∞ n=1 is monotonic and bounded, then it is convergent
+>	- The harmonic series 1/n is divergent
+>	- For every real number x, the Maclaurin series converges to sin x.
 
 ___
 ### Sequence vs Series
