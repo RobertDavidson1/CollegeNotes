@@ -24,7 +24,7 @@
 >>	-  **Negation:** $\neg p$: not $p$
 >
 >>[!eq] Truth Table - Every possible combination of values
->>![[Pasted image 20240328132625.png | center]]
+>>![[TruthTable2.png| center]]
 >
 >>[!eq] Predicate
 >>>[!eq] Definition

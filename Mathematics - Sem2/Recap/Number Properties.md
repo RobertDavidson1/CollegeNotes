@@ -9,7 +9,7 @@
 
 ___
 ### Night Watch Zone Quick Respone (NWZQR)
-![[Pasted image 20240327132702.png | center ]]
+![[TypesOf Numbers.png| center ]]
 ___
 ### Natural Numbers
 
