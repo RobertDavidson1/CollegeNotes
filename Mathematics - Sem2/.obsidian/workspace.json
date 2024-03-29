@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recap/Types of Numbers.md",
+                "file": "Recap/Recap Contents.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recap/Types of Numbers.md",
+                "file": "Recap/Recap Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recap/Types of Numbers.md",
+                "file": "Recap/Recap Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recap/Types of Numbers.md"
+                "file": "Recap/Recap Contents.md"
               }
             }
           }
@@ -151,13 +151,13 @@
   },
   "active": "b4f85e2510ef4fdf",
   "lastOpenFiles": [
-    "Recap/Recap Contents.md",
     "Recap/Logic.md",
+    "Recap/Recap Contents.md",
+    "Recap/Types of Numbers.md",
     "Recap/Series + Sequences.md",
     "Recap/Set Properties.md",
     "Recap/Types of Correspondence.md",
     "Recap/Number Theorems.md",
-    "Recap/Types of Numbers.md",
     "Recap/Integration.md",
     "Number Theory/Number Theory Contents.md",
     "Untitled.md",
