@@ -20,7 +20,7 @@ ___
 - [[Bijections and Inverse Functions]]
 ___
 #### Permutations
-- [[Permutations]]
+- [[Algebra/Permutations]]
 - [[Products of Permutations]]
 - [[Write a Permutation as Disjoint Cycles]]
 - [[Products of Transpositions]]
