@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recap/Recap Contents.md",
+                "file": "Recap/Logic.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recap/Recap Contents.md",
+                "file": "Recap/Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recap/Recap Contents.md",
+                "file": "Recap/Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recap/Recap Contents.md"
+                "file": "Recap/Logic.md"
               }
             }
           }
@@ -151,8 +151,8 @@
   },
   "active": "b4f85e2510ef4fdf",
   "lastOpenFiles": [
-    "Recap/Logic.md",
     "Recap/Recap Contents.md",
+    "Recap/Logic.md",
     "Recap/Types of Numbers.md",
     "Recap/Series + Sequences.md",
     "Recap/Set Properties.md",
