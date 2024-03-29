@@ -1,12 +1,16 @@
 **Integration**
 - [[Integration]]
+
 **Numbers**
-- [[Number Properties]]
+- [[Types of Numbers]]
 -  [[Number Theorems]]
+
 **Sets**
 - [[Types of Correspondence]]
 - [[Set Properties]]
+
 **Series**
 -  [[Series + Sequences]]
+
 **Algebra**
 - [[Logic]]

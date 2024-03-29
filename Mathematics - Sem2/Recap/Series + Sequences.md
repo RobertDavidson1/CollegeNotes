@@ -1,3 +1,4 @@
+**Table of Contents**
 - [[#Sequence vs Series|Sequence vs Series]]
 - [[#Divergence / Convergence|Divergence / Convergence]]
 - [[#Increasing / Decreasing|Increasing / Decreasing]]

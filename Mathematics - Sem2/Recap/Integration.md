@@ -1,6 +1,17 @@
+
+**Table of Contents**
+- [[#FToC|FToC]]
+- [[#Integration Techniques|Integration Techniques]]
+- [[#Improper Integral|Improper Integral]]
+
+___
+
 >[!eq] Integration vs Differentiation
 >- **Differential calculus** is about how quantities are changing
 >- **Integral calculus** is about the accumulation of quantities over intervals
+
+
+### FToC
 
 >[!eq] Fundamental Theorem of Calculus (FToC)
 >>[!eq] FtoC 1:
@@ -15,6 +26,10 @@
 >>$$\large A(x)=\int_a^xf(t)dt$$
 >>- And hence:
 > $$\large \dfrac{d}{dx} A(x) = f(t)$$
+
+___
+
+### Integration Techniques
 
 >[!eq] Integration Techniques
 >>[!eq] Substitution (Reversing Chain Rule)
@@ -104,6 +119,8 @@
 >>>	- $\frac{x-4}{x(x-1)}=\frac 4x+\frac {-3}{x-1}$
 
 ___
+### Improper Integral
+
 
 >[!eq] Improper Integral
 >- A class of integrals where:

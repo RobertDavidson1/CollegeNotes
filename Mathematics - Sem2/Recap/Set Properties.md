@@ -1,3 +1,4 @@
+**Table of Contents**
 - [[#Infimum and Supremum|Infimum and Supremum]]
 - [[#Maximum / Minimum|Maximum / Minimum]]
 - [[#Bounds|Bounds]]
