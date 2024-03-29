@@ -14,3 +14,9 @@
 
 **Algebra**
 - [[Logic]]
+- [[Permutations]]
+- [[Groups, Rings and Fields]]
+- [[Polynomials]]
+
+**Tools**
+- [[Induction]]
