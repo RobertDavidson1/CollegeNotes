@@ -1,0 +1,12 @@
+{
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "./",
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "strictLineBreaks": false,
+  "foldHeading": false,
+  "foldIndent": false,
+  "showLineNumber": false,
+  "tabSize": 5,
+  "readableLineLength": true
+}
