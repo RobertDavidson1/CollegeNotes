@@ -1,3 +1,10 @@
+**Table of Contents**
+- [[#Rings of Polynomials|Rings of Polynomials]]
+- [[#Quotients and Roots of polynomials|Quotients and Roots of polynomials]]
+- [[#GCD of Polynomials|GCD of Polynomials]]
+- [[#Irreducible  Polynomials|Irreducible  Polynomials]]
+
+___
 >[!eq] Polynomials
 >>[!eq] Definition of a polynomial
 >>- The coefficients of the polynomial are elements from a commutative ring $R$
@@ -15,6 +22,7 @@
 >>		- By Fermat's Little Theorem, for any $a \in \mathbb{Z}_m, a^m - a \equiv 0\mod m$
 >>	- However, $p(x)$ and $q(x)$ are distint polynomials since their coefficients differ
 
+___
 #### Rings of Polynomials
 
 > [!eq] Rings of Polynomials
@@ -28,6 +36,7 @@
 >>[!eq] Multiplication of polynomials
 >>$$\large \begin{aligned}\left(\sum a_\mathrm{i}x^\mathrm{i}\right)\left(\sum b_\mathrm{i}x^\mathrm{i}\right)& =\sum_j\sum_ka_jb_kx^{j+k}  \\\\&=\sum_{i}\left(\sum_{j+k=i}a_jb_k\right)x^i.\end{aligned}$$
 
+___
 #### Quotients and Roots of polynomials
 
 >[!eq] Quotients and Roots of polynomials
@@ -49,6 +58,7 @@
 >>- The number $a\in F$ is a root of $f(x) \in F[x]$, if and only if:
 >>	- The polynomial $x-a$ is a *factor* of $f(x)$
 
+___
 #### GCD of Polynomials
 >[!eq] Euclid's Algorithm
 >- Euclid's Algorithm can be used to compute the gcd of two polynomials $f$ and $g$
@@ -73,6 +83,7 @@
 >>
 >>$\begin{aligned}&\mathbf{x}^{3}+2\mathbf{x}^{2}+2(\mathbf{x}^{2}+2\mathbf{x}+1)\mathbf{x}+(2\mathbf{x}+2). \\&\mathrm{x^2+2x+1=(2x+2)(2x+2)+0.} \\&\gcd(f,g)=2x+2=2\cdot(x+1).\end{aligned}$
 
+___
 #### Irreducible  Polynomials
 >[!eq] Irreducible Polynomials
 >- Suppose $F[x]$ is a Field (a commutative ring where each $a \in F \backslash \set{0}$  has an inverse)
@@ -99,3 +110,5 @@
 >>- Suppose $\deg f > 2$
 >>- By the Fundamental Theorem $f(x)$ how a complex root $a\in \mathbb{C}$
 >>- Note that $\overline{f(x)} = f(\overline{x})$
+
+___
