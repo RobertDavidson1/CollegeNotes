@@ -11,8 +11,13 @@
             "id": "fbff0a84337c5b9d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm/Algorithms Home Page.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algorithm/Algorithms Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Algorithm/Algorithms Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Algorithm/Algorithms Home Page.md"
+              }
             }
           }
         ]
@@ -139,8 +148,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fbff0a84337c5b9d",
+  "active": "f56fe916c3f9323c",
   "lastOpenFiles": [
+    "Theory",
+    "Algorithm/Binary Search.md",
+    "Algorithm/Algorithms Home Page.md",
+    "Algorithm/Binary Power.md",
+    "Algorithm/Factorial.md",
+    "Algorithm/Fibonacci.md",
+    "Algorithm/Palindrome.md",
+    "Algorithm/Pasted image 20240331180028.png",
     "Welcome.md",
     "Binary Search.md",
     "Number Theory/Number Theory Contents.md",
@@ -161,14 +178,7 @@
     "Algebra/Equivalence Relations are Partitions.md",
     "Algebra/Injective and Surjective Functions.md",
     "Algebra/Composition of Functions.md",
-    "Algebra/Functions are Relations.md",
     "Algebra/Pasted image 20240301174908.png",
-    "Algebra/Reflexive, Symmetric and Transitive.md",
-    "Algebra/Product of Sets.md",
-    "Algebra/Summary - Functions, Permutations and Polynomials.md",
-    "Algebra/Rings.md",
-    "Algebra/Groups.md",
-    "Algebra/Products of Transpositions.md",
     "Number Theory/Pasted image 20240229161601.png",
     "Algebra/Pasted image 20240301141259.png",
     "Algebra/Pasted image 20240301141054.png",

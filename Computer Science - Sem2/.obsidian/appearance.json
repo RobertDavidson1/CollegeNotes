@@ -1,10 +1,13 @@
 {
   "accentColor": "#0e8622",
-  "cssTheme": "Obsidian Nord",
-  "baseFontSize": 16,
+  "cssTheme": "Catppuccin",
+  "baseFontSize": 18,
   "enabledCssSnippets": [
-    "callouts"
+    "callouts",
+    "center_images"
   ],
   "translucency": false,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono"
 }
