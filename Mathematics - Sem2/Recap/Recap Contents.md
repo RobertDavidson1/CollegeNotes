@@ -1,13 +1,11 @@
 **Integration**
 - [[Integration]]
 
-**Numbers**
+**Numbers and Sets**
 - [[Types of Numbers]]
 -  [[Number Theorems]]
-
-**Sets**
+- [[Numbers and Set Properties]]
 - [[Types of Correspondence]]
-- [[Set Properties]]
 
 **Series**
 -  [[Series + Sequences]]
@@ -19,4 +17,4 @@
 - [[Polynomials]]
 
 **Tools**
-- [[Induction]]
+- [[Induction + Probability]]

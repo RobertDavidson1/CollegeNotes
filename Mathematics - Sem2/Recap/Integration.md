@@ -54,19 +54,19 @@ ___
 >>>	$\begin{align*}&u = x^2 + 1\\\\ &\frac{2(x^2+1)^{\frac32}}3+C \end{align*}$
 >
 >>[!eq] Integration by parts (Reversing Product Rule)
->>$$\large \int udv=uv-\int vdu$$
->>1. *Choose $u$ and $dv$:*
->>	- $u$ should be a function that simplifies upon differentiation
+>>$$\large \int fg' = fg - \int f'g$$
+>>1. *Choose $f$ and $g'$:*
+>>	- $f$ should be a function that simplifies upon differentiation
 >>		- Follow **LIATE** Rule: Log, Inverse trig, Algebra, Trig, Exponential
 >>			- L:  $ln(x), log_b(x)$
 >>			- I: $\arctan(x) \arcsin(x)$
 >>			- A: $x^2$
 >>			- T: $\sin(x)$
 >>			- E: $e^x$
->>	- $dv$ should be something easy to integrate
->>2. *Differentiate $u$ to find $du$*
->>3. *Integrate $dv$ to find $v$*
->>4. *Apply integration by parts formula:* $\int udv=uv-\int vdu$
+>>	- $g'$ should be something easy to integrate
+>>2. *Differentiate $f$ to find $f'$*
+>>3. *Integrate $g'$ to find $g$*
+>>4. *Apply integration by parts formula:* $\large \int fg' = fg - \int f'g$
 >>5. *Solve integral*
 >>6. *Add constant of integration $C$*
 >>
