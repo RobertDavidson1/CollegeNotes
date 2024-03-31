@@ -1,3 +1,5 @@
 - [[Binary Search]]
 - [[Binary Power]]
 - [[Factorial]]
+- [[Fibonacci]]
+- [[Palindrome]]
