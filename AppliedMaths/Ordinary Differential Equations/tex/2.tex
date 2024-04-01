@@ -1,0 +1,46 @@
+\documentclass{article}
+\usepackage{amsmath}
+\begin{document}
+
+\title{Logistic Population Growth}
+\date{}
+\maketitle
+
+\section*{Problem Statement}
+A population of size \( P \) (in millions) varies in time \( t \) (in years) according to a logistic equation of the form:
+\[ \frac{dP}{dt} = \frac{1}{20}(4P - P^2) \]
+
+\begin{enumerate}
+    \item[(a)] If the initial population size is \( P(0) = 1 \) find the population for all time.
+    \item[(b)] What size does the population have as \( t \to \infty \)?
+    \item[(c)] How long does it take for the population to reach 3 million?
+\end{enumerate}
+
+\section*{Solution}
+\subsection*{Part (a)}
+To solve the logistic differential equation, we use separation of variables. Rearranging terms, we have:
+\[ \frac{dP}{4P - P^2} = \frac{dt}{20} \]
+Integrating both sides gives:
+\[ \int \frac{dP}{4P - P^2} = \int \frac{dt}{20} \]
+To integrate the left side, we use partial fraction decomposition:
+\[ \frac{1}{4P - P^2} = \frac{A}{P} + \frac{B}{4 - P} \]
+Solving for \( A \) and \( B \), we find \( A = 1/4 \) and \( B = 1/4 \). The integral becomes:
+\[ \int \left( \frac{1/4}{P} + \frac{1/4}{4 - P} \right) dP = \frac{t}{20} + C \]
+\[ \frac{1}{4}\ln{|P|} - \frac{1}{4}\ln{|4 - P|} = \frac{t}{20} + C \]
+Solving for \( P \) gives us the population as a function of time \( P(t) \).
+
+\subsection*{Part (b)}
+As \( t \to \infty \), the population approaches the carrying capacity. Setting the rate of change \( \frac{dP}{dt} \) to zero, we find the carrying capacity:
+\[ 4P - P^2 = 0 \]
+\[ P(P - 4) = 0 \]
+The non-trivial solution is \( P = 4 \) million.
+
+\subsection*{Part (c)}
+To find the time \( t \) when \( P(t) = 3 \), we use the equation from part (a):
+\[ \frac{1}{4}\ln{|3|} - \frac{1}{4}\ln{|4 - 3|} = \frac{t}{20} + C \]
+Using the initial condition \( P(0) = 1 \), we solve for \( C \). Substituting back into the equation, we can then solve for \( t \).
+
+\section*{Conclusion}
+By solving the logistic differential equation, we determine the population growth over time, the carrying capacity, and the time required for the population to reach a certain size.
+
+\end{document}
