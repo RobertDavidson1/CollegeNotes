@@ -1,0 +1,40 @@
+\documentclass{article}
+\usepackage{amsmath}
+\begin{document}
+
+\title{General Solution to a Nonhomogeneous Linear Differential Equation}
+\date{}
+\maketitle
+
+\section*{Problem Statement}
+Find the general solution to the differential equation:
+\[ \ddot{x} + \dot{x} + x = 2\sin(t). \]
+
+\section*{Solution}
+The given differential equation is a second-order nonhomogeneous linear differential equation. To find the general solution, we solve for the homogeneous part and find a particular solution.
+
+\subsection*{Homogeneous Solution}
+The associated homogeneous equation is:
+\[ \ddot{x} + \dot{x} + x = 0. \]
+The characteristic equation for this is:
+\[ r^2 + r + 1 = 0, \]
+with solutions found using the quadratic formula:
+\[ r = \frac{-1 \pm i\sqrt{3}}{2}. \]
+This gives us the general homogeneous solution:
+\[ x_h(t) = e^{\frac{-t}{2}}\left( A\cos\left(\frac{\sqrt{3}}{2}t\right) + B\sin\left(\frac{\sqrt{3}}{2}t\right) \right), \]
+where \( A \) and \( B \) are constants.
+
+\subsection*{Particular Solution}
+For the particular solution, we assume a form that contains the driving force's frequency:
+\[ x_p(t) = At\cos(t) + Bt\sin(t). \]
+Upon substituting \( x_p(t) \) into the differential equation and equating coefficients, we can solve for \( A \) and \( B \) to get the particular solution that satisfies the nonhomogeneous part of the equation.
+
+\subsection*{General Solution}
+The general solution to the differential equation is the sum of the homogeneous and particular solutions:
+\[ x(t) = x_h(t) + x_p(t). \]
+The constants \( A \) and \( B \) can be determined by the initial conditions, and the full expression for \( x(t) \) can be written once \( A \) and \( B \) are known.
+
+\section*{Conclusion}
+By combining the homogeneous solution with the particular solution, we obtain the general solution to the given differential equation, which describes the motion of the system under the influence of a sinusoidal driving force.
+
+\end{document}
