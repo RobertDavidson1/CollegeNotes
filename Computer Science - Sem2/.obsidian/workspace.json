@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ede59cfa5979b77e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory/Big O.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Algorithms Home Page.md",
+                "file": "Theory/Big O.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Algorithms Home Page.md",
+                "file": "Theory/Big O.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Algorithms Home Page.md"
+                "file": "Theory/Big O.md"
               }
             }
           }
@@ -148,17 +162,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f56fe916c3f9323c",
+  "active": "ede59cfa5979b77e",
   "lastOpenFiles": [
+    "Theory/Theory Contents.md",
+    "Theory/Big O.md",
+    "Algorithm/Algorithms Home Page.md",
+    "Welcome.md",
     "Theory",
     "Algorithm/Binary Search.md",
-    "Algorithm/Algorithms Home Page.md",
     "Algorithm/Binary Power.md",
     "Algorithm/Factorial.md",
     "Algorithm/Fibonacci.md",
     "Algorithm/Palindrome.md",
     "Algorithm/Pasted image 20240331180028.png",
-    "Welcome.md",
     "Binary Search.md",
     "Number Theory/Number Theory Contents.md",
     "Number Theory/Supremum and Infimum.md",
@@ -177,7 +193,6 @@
     "Algebra/Bijections and Inverse Functions.md",
     "Algebra/Equivalence Relations are Partitions.md",
     "Algebra/Injective and Surjective Functions.md",
-    "Algebra/Composition of Functions.md",
     "Algebra/Pasted image 20240301174908.png",
     "Number Theory/Pasted image 20240229161601.png",
     "Algebra/Pasted image 20240301141259.png",
