@@ -1,0 +1,34 @@
+\documentclass{article}
+\usepackage{amsmath}
+\begin{document}
+
+\title{Angular Velocity of a Sphere Rotating about a Point}
+\date{}
+\maketitle
+
+\textbf{Problem Statement:} A solid sphere of mass $m$ and radius $a$ can rotate freely about a point $A$ on its edge. The sphere is held initially at rest with the line $OA$ through $A$ and the centre of the sphere $O$ horizontal and is released under gravity. Find the angular velocity of the system when $OA$ first becomes vertical.
+
+\textbf{Solution:}
+
+To find the angular velocity (\(\omega\)) of the solid sphere when the line \(OA\) becomes vertical, we use the principle of conservation of energy. Initially, the sphere has potential energy due to its height above the lowest point of its path. When \(OA\) becomes vertical, this potential energy is converted into rotational kinetic energy.
+
+The initial potential energy (\(U_i\)) is given by:
+\[ U_i = mg2a \]
+where \(g\) is the acceleration due to gravity and \(2a\) is the distance the center of mass falls.
+
+The final kinetic energy (\(K_f\)) of the sphere is purely rotational and is given by:
+\[ K_f = \frac{1}{2}I\omega^2 \]
+where \(I\) is the moment of inertia of the sphere about point \(A\), and \(\omega\) is the angular velocity.
+
+The moment of inertia of the sphere about its center is \(\frac{2}{5}mr^2\), but since it rotates about an edge, we use the parallel axis theorem:
+\[ I = \frac{2}{5}ma^2 + ma^2 = \frac{7}{5}ma^2 \]
+
+By conservation of energy, \(U_i = K_f\):
+\[ mg2a = \frac{1}{2}\left(\frac{7}{5}ma^2\right)\omega^2 \]
+
+Solving for \(\omega\) gives:
+\[ \omega = \sqrt{\frac{10g}{7a}} \]
+
+This equation gives the angular velocity of the sphere when the line \(OA\) becomes vertical, demonstrating the conversion of gravitational potential energy into rotational kinetic energy.
+
+\end{document}
