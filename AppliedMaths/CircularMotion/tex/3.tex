@@ -1,0 +1,38 @@
+\documentclass{article}
+\usepackage{amsmath}
+\begin{document}
+
+\title{Extension of a Spring in Circular Motion}
+\date{}
+\maketitle
+
+\section*{Problem Statement}
+A particle of mass 1 kg is attached to one end of an elastic spring of natural length 1 m and modulus of elasticity 50 N. The other end is fastened to a point on a smooth horizontal table. If the spring and particle describe circles on the table at 60 revolutions per minute, find the extension of the spring.
+
+\section*{Solution}
+The centripetal force required for circular motion is provided by the force exerted by the spring. The centripetal force \( F \) is given by \( F = \frac{mv^2}{r} \), and the force by the spring follows Hooke's Law \( F = kx \), where \( k \) is the spring constant and \( x \) is the extension of the spring.
+
+Given:
+\begin{itemize}
+    \item Mass of the particle \( m = 1 \) kg,
+    \item Spring constant \( k = 50 \) N/m,
+    \item Revolutions per minute \( n = 60 \).
+\end{itemize}
+
+First, we convert the revolutions per minute to angular velocity in radians per second:
+\[ \omega = 2\pi \times \frac{n}{60} \, \text{rad/s} = 2\pi \, \text{rad/s} \]
+
+The radius of the motion \( r \) is equal to the extension \( x \) since the natural length does not provide any force. The centripetal force is therefore:
+\[ m(\omega x)^2 = kx \]
+Solving for \( x \) gives us:
+\[ x = \frac{m\omega^2}{k} \]
+
+Substituting the values we have:
+\[ x = \frac{(1 \, \text{kg})(2\pi \, \text{rad/s})^2}{50 \, \text{N/m}} \]
+\[ x = \frac{(1)(4\pi^2)}{50} \, \text{m} \]
+\[ x = \frac{4\pi^2}{50} \, \text{m} \]
+
+\section*{Conclusion}
+The extension \( x \) of the spring is calculated to be \( \frac{4\pi^2}{50} \) meters when the particle describes circles at a rate of 60 revolutions per minute.
+
+\end{document}
