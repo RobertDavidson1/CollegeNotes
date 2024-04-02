@@ -9,5 +9,6 @@
   "translucency": false,
   "baseFontSizeAction": true,
   "interfaceFontFamily": "JetBrains Mono",
-  "textFontFamily": "JetBrains Mono"
+  "textFontFamily": "JetBrains Mono",
+  "theme": "obsidian"
 }
