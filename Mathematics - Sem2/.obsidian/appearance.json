@@ -7,5 +7,6 @@
     "center_images"
   ],
   "translucency": false,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "theme": "obsidian"
 }
