@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recap/Logic.md",
+                "file": "Recap/Recap Contents.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recap/Logic.md",
+                "file": "Recap/Recap Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recap/Logic.md",
+                "file": "Recap/Recap Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recap/Logic.md"
+                "file": "Recap/Recap Contents.md"
               }
             }
           }
@@ -140,6 +140,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -150,6 +151,7 @@
   },
   "active": "b4f85e2510ef4fdf",
   "lastOpenFiles": [
+    "Recap/Induction + Probability.md",
     "Recap/Recap Contents.md",
     "Recap/Logic.md",
     "Recap/Types of Numbers.md",
@@ -183,7 +185,6 @@
     "Series/Pasted image 20240313122449.png",
     "Series/Visualising a sequence.md",
     "Series/Ways for a sequence to be divergent.md",
-    "Series/Convergence of a sequence.md",
     "Recap",
     "Probability/Pasted image 20240322113636.png",
     "Probability/Pasted image 20240321162707.png",

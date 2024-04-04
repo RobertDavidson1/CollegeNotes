@@ -8,7 +8,7 @@
   ],
   "translucency": false,
   "baseFontSizeAction": true,
-  "interfaceFontFamily": "JetBrains Mono",
-  "textFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font",
   "theme": "obsidian"
 }

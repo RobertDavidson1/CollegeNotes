@@ -1,1 +1,3 @@
 - [[Big O]]
+- [[IPython added functionality]]
+- [[Types]]
