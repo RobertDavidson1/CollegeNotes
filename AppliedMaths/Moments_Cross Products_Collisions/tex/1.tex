@@ -1,0 +1,33 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\begin{document}
+
+\title{Ladder Slipping Problem}
+\date{}
+\maketitle
+
+\section*{Problem Statement}
+A uniform ladder of length \( 2L \) and mass \( m \) rests at an angle of \( 60^\circ \) to the horizontal against a rough vertical wall and rough horizontal floor with coefficients of friction \( \frac{1}{2} \) and \( \frac{1}{4} \), respectively. A man of mass \( 8m \) climbs the ladder. We are to find the position of the man when the ladder slips.
+
+\section*{Solution}
+The conditions for equilibrium, before the ladder slips, are:
+\begin{enumerate}
+    \item The sum of the vertical forces must be zero, yielding the normal force at the floor:
+    \[ N_{\text{floor}} = m g + 8m g \]
+    \item The sum of the horizontal forces must be zero, giving the normal force at the wall:
+    \[ N_{\text{wall}} = F_{\text{friction, floor}} = \mu_{\text{floor}} N_{\text{floor}} \]
+    \item The sum of the torques about the base of the ladder must be zero:
+    \[ 8m g x \sin(60^\circ) + m g (L \sin(60^\circ)) = F_{\text{friction, wall}} (2L \sin(60^\circ)) \]
+\end{enumerate}
+
+Substituting the known values into the torque equation, we can solve for \( x \), the man's position on the ladder:
+\[ 8m g x \sin(60^\circ) + m g (L \sin(60^\circ)) = \mu_{\text{wall}} N_{\text{wall}} (2L \sin(60^\circ)) \]
+\[ 8m g x \sin(60^\circ) = \left(\frac{1}{2} \right) \left(\frac{1}{4} \right) (m g + 8m g) (2L \sin(60^\circ)) - m g (L \sin(60^\circ)) \]
+
+Solving for \( x \), we find the position where the man causes the ladder to slip.
+
+\section*{Conclusion}
+By calculating \( x \), we determine the point at which the man's weight will cause the ladder to slip, given the coefficients of friction at the wall and the floor.
+
+\end{document}
