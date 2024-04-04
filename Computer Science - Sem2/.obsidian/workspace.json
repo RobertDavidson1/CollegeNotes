@@ -13,8 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Algorithms Home Page.md",
+                "file": "Theory/Theory Contents.md",
                 "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b41ba645b79dc8f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory/Untitled 1.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -46,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,12 +105,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "7d7c383c832ac0de",
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Types.md",
+                "file": "Theory/Theory Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Types.md",
+                "file": "Theory/Theory Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Types.md"
+                "file": "Theory/Theory Contents.md"
               }
             }
           }
@@ -176,14 +188,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74179f63ad25a607",
+  "active": "fbff0a84337c5b9d",
   "lastOpenFiles": [
+    "Theory/Untitled 1.md",
     "Theory/Theory Contents.md",
-    "Theory/Types.md",
+    "Theory/Interacting with ndarray.md",
+    "Theory/Pasted image 20240404190021.png",
+    "Theory/NumPy Intro.md",
     "Theory/IPython added functionality.md",
-    "Theory/Untitled.md",
-    "Theory/Big O.md",
     "Algorithm/Algorithms Home Page.md",
+    "Theory/Big O.md",
+    "Theory/Types.md",
+    "Theory/Untitled.md",
     "Welcome.md",
     "Theory",
     "Algorithm/Binary Search.md",
@@ -204,9 +220,6 @@
     "Number Theory/Maximum and Minimum Elements 2024-03-05 19.05.55.excalidraw.md",
     "Number Theory/Upper and Lower Bounds.md",
     "Algebra/Sets of Sets.md",
-    "Algebra/Boolean Algebra.md",
-    "Algebra/Bijections of Partitions and Subsets.md",
-    "Algebra/Kernel and Equivalence Relation Explained.md",
     "Algebra/Pasted image 20240301174908.png",
     "Number Theory/Pasted image 20240229161601.png",
     "Algebra/Pasted image 20240301141259.png",

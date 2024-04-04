@@ -1,14 +1,15 @@
 {
-  "accentColor": "#0e8622",
+  "accentColor": "",
   "cssTheme": "Catppuccin",
-  "baseFontSize": 18,
+  "baseFontSize": 20,
   "enabledCssSnippets": [
     "callouts",
     "center_images"
   ],
   "translucency": false,
   "baseFontSizeAction": true,
-  "interfaceFontFamily": "JetBrainsMono Nerd Font",
-  "textFontFamily": "JetBrainsMono Nerd Font",
-  "theme": "obsidian"
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "theme": "obsidian",
+  "monospaceFontFamily": "Cascadia Mono"
 }

@@ -21,17 +21,3 @@ ___
 >  - ob_digit: contains the actual integer value that we expect Python variable to represent
 
 ___
-- Python lists contain a pointer to a block of pointers
-	- each of which point to a python object (e.g. int object we saw)
-- NumPy arrays are fixed type and are essentially pointers to a contiguous block of data
-- Upcasting : fill
-- Fundamental difference : ndarray is stored in a homogeneous and contigous block of memory
-	- Computations on arrays can be written in C
-	- Knowing the address of the memory and the datatype, it's a simple arithmetic to loop over all items
-	- Spactial locality in mmeory access patterns results in performance gains due to CPU cache
-	- NumPy can take advantage of instructins of modern CPUS
-- ndarray attributes:
-	- dtype: data type
-	- ndim: number of dimensions
-	- shape: size of each dimension
-	- size: total size of array
