@@ -1,38 +1,53 @@
-[[Exam Prep]]
+## Introduction
+- Basics
+  - [[IPython added functionality]]
+  - [[Types]]
 
-**Intro**
-- [[IPython added functionality]]
-- [[Types]]
-
-**Numpy**
+## Core Python Data Analysis
+### Numpy
 - [[NumPy Intro]]
 - [[Interacting with ndarray]]
 - [[uFuncs and Broadcasting]]
 - [[NumPy end]]
 
-**Pandas**
-- [[Pandas Series]]
-- [[Pandas DataFrame]]
-- [[Pandas Indexer]]
-- [[Interacting with DataFrames]]
-- [[Interacting further with DataFrames]]
+### Pandas
+- Basics
+  - [[Pandas Series]]
+  - [[Pandas DataFrame]]
+- Advanced Interactions
+  - [[Pandas Indexer]]
+  - [[Interacting with DataFrames]]
+  - [[Interacting further with DataFrames]]
 
-**Plotting Data:**
+## Data Visualization
 - [[Time Data]]
 - [[Visualization]]
 
-**Machine Learning & Datasets:**
-- [[Iris Dataset]]
+## Machine Learning
+### Introduction to Machine Learning
 - [[Types of Machine Learning]]
-- [[Splitting Data]]
-- [[Choosing the Model]]
-- [[Over-fitting]]
+- Dataset Handling
+  - [[Iris Dataset]]
+  - [[Splitting Data]]
+- Model Fundamentals
+  - [[Choosing the Model]]
+  - [[Over-fitting]]
 
-**Exploring Different Models**
-- [[Uni-variate Linear Regression]]
-- [[Multi-variate Linear Regression]]
-- [[Seeking Balance]]
-- [[R Values]]
-- [[Unsupervised Learning]]
+### Advanced Machine Learning Concepts
+- Regression Analysis
+  - [[Uni-variate Linear Regression]]
+  - [[Multi-variate Linear Regression]]
+- Model Evaluation and Improvement
+  - [[Variance and Bias]]
+  - [[Validation and Learning Curves]]
+  - [[Tuning Hyperparamaters]]
+  - [[R Values]]
+- Unsupervised Learning
+  - [[PCA]]
+  - [[Clustering Algorithms]]
+
+### Neural Networks
 - [[Neural Networks]]
-- 
+
+## Exam Preparation
+- [[Exam Prep]]
