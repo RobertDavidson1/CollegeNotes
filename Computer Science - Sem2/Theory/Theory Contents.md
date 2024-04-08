@@ -19,4 +19,7 @@
 
 **Plotting Data:**
 - [[Time Data]]
-- [[Visaulization]]
+- [[Visualization]]
+
+**Datasets:**
+- [[Iris Dataset]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory/Visaulization.md",
+                "file": "Theory/Theory Contents.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Visaulization.md",
+                "file": "Theory/Theory Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Visaulization.md",
+                "file": "Theory/Theory Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Visaulization.md"
+                "file": "Theory/Theory Contents.md"
               }
             }
           }
@@ -185,8 +185,9 @@
   },
   "active": "fbff0a84337c5b9d",
   "lastOpenFiles": [
+    "Theory/Visualization.md",
     "Theory/Theory Contents.md",
-    "Theory/Visaulization.md",
+    "Theory/Iris Dataset.md",
     "Theory/Time Data.md",
     "Theory/Interacting further with DataFrames.md",
     "Theory/Interacting with DataFrames.md",
@@ -212,7 +213,6 @@
     "Theory/Pasted image 20240404190021.png",
     "Theory/Big O.md",
     "Theory/Untitled.md",
-    "Welcome.md",
     "Theory",
     "Algorithm/Pasted image 20240331180028.png",
     "Series",

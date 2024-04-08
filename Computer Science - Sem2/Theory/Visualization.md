@@ -39,3 +39,9 @@ plt.yticks([-1, -0.5, 0, 0.5, 1])
   # Show the plot
   _ = plt.show()
   ```
+
+**Alternatives to .plot**
+```
+plt.scatter(x,y,)
+plt.show()
+```
