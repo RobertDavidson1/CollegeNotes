@@ -26,7 +26,7 @@
 - [[Types of Machine Learning]]
 - [[Splitting Data]]
 - [[Choosing the Model]]
-- [[Overfitting]]
+- [[Over-fitting]]
 
 **Exploring Different Models**
 - [[Uni-variate Linear Regression]]
