@@ -1,15 +1,16 @@
-- The core objects are
-	- Series
-	- DataFrame
-	- Indexer
+
 ___
 ### Series:
 - A `pandas` series is an `ndarray` with labels
 - Series vs Dictionary
 	- Labels need not be unique
 	- Has a lot of functions and method
-
-**Example without labels:**
+- Note on slicing **impact on indexing:**
+	- `loc`: not impacted (explicit label)
+	- `iloc`: potentially impacted since numbering of rows may chance
+___
+### **Examples:** 
+*Without labels* 
 
 ```run-python
 import numpy as np
@@ -21,7 +22,11 @@ print(ser)
 
 ```
 
-**Example with labels:**
+\
+<tab>
+
+*With Labels*
+
 ```run-python
 ser = pd.Series(a,index=[f"x{i}" for i in range(5)])
 print(ser)
@@ -31,7 +36,9 @@ print(ser)
 print(f"{ser.keys() = }")
 print(f"{list(ser.items()) = }")
 ```
-**Indexing:**
+
+___
+### **Indexing:**
 - `loc`: index using the label
 - `iloc:` index using an integer representing the index of element
 ```run-python

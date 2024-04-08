@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Palindrome.md",
+                "file": "Theory/Visaulization.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Palindrome.md",
+                "file": "Theory/Visaulization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Palindrome.md",
+                "file": "Theory/Visaulization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Palindrome.md"
+                "file": "Theory/Visaulization.md"
               }
             }
           }
@@ -185,12 +185,23 @@
   },
   "active": "fbff0a84337c5b9d",
   "lastOpenFiles": [
+    "Theory/Theory Contents.md",
+    "Theory/Visaulization.md",
+    "Theory/Time Data.md",
+    "Theory/Interacting further with DataFrames.md",
+    "Theory/Interacting with DataFrames.md",
+    "Excalidraw/Drawing 2024-04-08 10.36.34.excalidraw.md",
+    "Theory/Pandas Indexer.md",
+    "Theory/Pandas DataFrame.md",
+    "Theory/Pandas Series.md",
+    "Excalidraw/Drawing 2024-04-07 19.44.41.excalidraw.md",
+    "Excalidraw",
+    "Algorithm/Palindrome.md",
     "Algorithm/Algorithms Home Page.md",
     "Algorithm/Fibonacci.md",
     "Algorithm/Factorial.md",
     "Algorithm/Binary Power.md",
     "Algorithm/Binary Search.md",
-    "Theory/Theory Contents.md",
     "Theory/NumPy end.md",
     "Theory/uFuncs and Broadcasting.md",
     "Theory/Interacting with ndarray.md",
@@ -203,18 +214,8 @@
     "Theory/Untitled.md",
     "Welcome.md",
     "Theory",
-    "Algorithm/Palindrome.md",
     "Algorithm/Pasted image 20240331180028.png",
-    "Binary Search.md",
-    "Number Theory/Number Theory Contents.md",
-    "Number Theory/Supremum and Infimum.md",
-    "Algebra/Algebra Contents.md",
     "Series",
-    "Number Theory/Untitled.md",
-    "Number Theory/Example Questions.md",
-    "Number Theory/The Axiom of Completeness.md",
-    "Number Theory/Maximum and Minimum Elements.md",
-    "Number Theory/Maximum and Minimum Elements 2024-03-05 19.05.55.excalidraw.md",
     "Algebra/Pasted image 20240301174908.png",
     "Number Theory/Pasted image 20240229161601.png",
     "Algebra/Pasted image 20240301141259.png",

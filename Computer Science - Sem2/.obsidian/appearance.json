@@ -1,6 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Catppuccin",
+  "cssTheme": "AnuPpuccin",
   "baseFontSize": 20,
   "enabledCssSnippets": [
     "callouts",
@@ -8,8 +8,8 @@
   ],
   "translucency": false,
   "baseFontSizeAction": true,
-  "interfaceFontFamily": "JetBrains Mono",
-  "textFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font Mono",
   "theme": "obsidian",
-  "monospaceFontFamily": "Cascadia Mono"
+  "monospaceFontFamily": "Cantarell"
 }

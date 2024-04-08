@@ -11,4 +11,12 @@
 - [[NumPy end]]
 
 **Pandas**
-- [[Pandas Objects]]
+- [[Pandas Series]]
+- [[Pandas DataFrame]]
+- [[Pandas Indexer]]
+- [[Interacting with DataFrames]]
+- [[Interacting further with DataFrames]]
+
+**Plotting Data:**
+- [[Time Data]]
+- [[Visaulization]]
