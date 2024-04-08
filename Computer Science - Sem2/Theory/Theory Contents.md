@@ -21,5 +21,13 @@
 - [[Time Data]]
 - [[Visualization]]
 
-**Datasets:**
+**Machine Learning & Datasets:**
 - [[Iris Dataset]]
+- [[Types of Machine Learning]]
+- [[Splitting Data]]
+- [[Choosing the Model]]
+- [[Overfitting]]
+
+**Exploring Different Models**
+- [[Uni-variate Linear Regression]]
+- [[Multi-variate Linear Regression]]

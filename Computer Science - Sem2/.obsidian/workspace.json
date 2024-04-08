@@ -14,40 +14,6 @@
               "type": "markdown",
               "state": {
                 "file": "Theory/Theory Contents.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b41ba645b79dc8f3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ede59cfa5979b77e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory/Big O.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74179f63ad25a607",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory/Types.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -185,9 +151,14 @@
   },
   "active": "fbff0a84337c5b9d",
   "lastOpenFiles": [
-    "Theory/Visualization.md",
+    "Theory/Uni-variate Linear Regression.md",
     "Theory/Theory Contents.md",
+    "Theory/Overfitting.md",
+    "Theory/Choosing the Model.md",
+    "Theory/Splitting Data.md",
+    "Theory/Types of Machine Learning.md",
     "Theory/Iris Dataset.md",
+    "Theory/Visualization.md",
     "Theory/Time Data.md",
     "Theory/Interacting further with DataFrames.md",
     "Theory/Interacting with DataFrames.md",
@@ -207,12 +178,7 @@
     "Theory/uFuncs and Broadcasting.md",
     "Theory/Interacting with ndarray.md",
     "Theory/NumPy Intro.md",
-    "Theory/Types.md",
-    "Theory/IPython added functionality.md",
-    "Theory/Untitled 1.md",
     "Theory/Pasted image 20240404190021.png",
-    "Theory/Big O.md",
-    "Theory/Untitled.md",
     "Theory",
     "Algorithm/Pasted image 20240331180028.png",
     "Series",
