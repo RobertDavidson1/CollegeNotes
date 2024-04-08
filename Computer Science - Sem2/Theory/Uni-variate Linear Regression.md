@@ -1,3 +1,7 @@
+---
+cssclasses: []
+---
+
 ### Linear regression
 - Finding the line of best fit
 - We suspect y-values to depend on the x-values

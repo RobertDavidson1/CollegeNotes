@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - readable
+---
 ### Comparisons
 - Boolean comparisons are also implemented using uFuncs
 
