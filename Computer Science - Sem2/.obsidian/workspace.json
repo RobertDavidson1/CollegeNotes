@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory/Theory Contents.md",
+                "file": "Algorithm/Palindrome.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -24,13 +24,8 @@
             "id": "b41ba645b79dc8f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory/Untitled 1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -126,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Theory Contents.md",
+                "file": "Algorithm/Palindrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Theory Contents.md",
+                "file": "Algorithm/Palindrome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Theory Contents.md"
+                "file": "Algorithm/Palindrome.md"
               }
             }
           }
@@ -190,22 +185,24 @@
   },
   "active": "fbff0a84337c5b9d",
   "lastOpenFiles": [
-    "Theory/Untitled 1.md",
-    "Theory/Theory Contents.md",
-    "Theory/Interacting with ndarray.md",
-    "Theory/Pasted image 20240404190021.png",
-    "Theory/NumPy Intro.md",
-    "Theory/IPython added functionality.md",
     "Algorithm/Algorithms Home Page.md",
-    "Theory/Big O.md",
+    "Algorithm/Fibonacci.md",
+    "Algorithm/Factorial.md",
+    "Algorithm/Binary Power.md",
+    "Algorithm/Binary Search.md",
+    "Theory/Theory Contents.md",
+    "Theory/NumPy end.md",
+    "Theory/uFuncs and Broadcasting.md",
+    "Theory/Interacting with ndarray.md",
+    "Theory/NumPy Intro.md",
     "Theory/Types.md",
+    "Theory/IPython added functionality.md",
+    "Theory/Untitled 1.md",
+    "Theory/Pasted image 20240404190021.png",
+    "Theory/Big O.md",
     "Theory/Untitled.md",
     "Welcome.md",
     "Theory",
-    "Algorithm/Binary Search.md",
-    "Algorithm/Binary Power.md",
-    "Algorithm/Factorial.md",
-    "Algorithm/Fibonacci.md",
     "Algorithm/Palindrome.md",
     "Algorithm/Pasted image 20240331180028.png",
     "Binary Search.md",
@@ -218,8 +215,6 @@
     "Number Theory/The Axiom of Completeness.md",
     "Number Theory/Maximum and Minimum Elements.md",
     "Number Theory/Maximum and Minimum Elements 2024-03-05 19.05.55.excalidraw.md",
-    "Number Theory/Upper and Lower Bounds.md",
-    "Algebra/Sets of Sets.md",
     "Algebra/Pasted image 20240301174908.png",
     "Number Theory/Pasted image 20240229161601.png",
     "Algebra/Pasted image 20240301141259.png",

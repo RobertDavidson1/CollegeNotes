@@ -1,5 +1,5 @@
 - Jupyter notebooks run on IPython, adding more functionality
-	- <tab> : Shows whats possible from an object
+	- `<tab>` : Shows whats possible from an object
 	- ? : Shows the documentation
 	- % : Magic command
 	- ! : Shell command
