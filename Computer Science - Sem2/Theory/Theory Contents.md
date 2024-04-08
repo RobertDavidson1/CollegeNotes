@@ -11,4 +11,5 @@
 - [[NumPy end]]
 
 **Pandas**
-- [[Pandas Objects]]
+- [[Pandas Series]]
+- [[Pandas DataFrame]]
