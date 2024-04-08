@@ -4,7 +4,8 @@
   "baseFontSize": 20,
   "enabledCssSnippets": [
     "callouts",
-    "center_images"
+    "center_images",
+    "readable"
   ],
   "translucency": false,
   "baseFontSizeAction": true,

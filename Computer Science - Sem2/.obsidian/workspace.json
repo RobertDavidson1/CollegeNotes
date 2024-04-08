@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fbff0a84337c5b9d",
+            "id": "0a5fd31c54d0deb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory/Unsupervised Learning.md",
+                "file": "Theory/Theory Contents.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Unsupervised Learning.md",
+                "file": "Theory/Theory Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Unsupervised Learning.md",
+                "file": "Theory/Theory Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Unsupervised Learning.md"
+                "file": "Theory/Theory Contents.md"
               }
             }
           }
@@ -140,52 +140,55 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fbff0a84337c5b9d",
+  "active": "0a5fd31c54d0deb0",
   "lastOpenFiles": [
-    "Theory/Theory Contents.md",
-    "Theory/Unsupervised Learning.md",
     "Theory/Exam Prep.md",
+    "Theory/Theory Contents.md",
+    "Theory/Clustering Algorithms.md",
+    "Theory/Pasted image 20240408200804.png",
+    "Theory/Pasted image 20240408200803.png",
+    "Theory/PCA.md",
+    "Theory/Unsupervised Learning.md",
+    "Theory/Tuning Hyperparamaters.md",
     "Theory/Neural Networks.md",
-    "Theory/Seeking Balance.md",
-    "Theory/R Values.md",
-    "Theory/Multi-variate Linear Regression.md",
-    "Theory/Types of Machine Learning.md",
-    "Theory/Over-fitting.md",
+    "Theory/Untitled.md",
+    "Theory/Validation and Learning Curves.md",
     "Theory/Uni-variate Linear Regression.md",
+    "Theory/Over-fitting.md",
+    "Theory/R Values.md",
+    "Theory/Variance and Bias.md",
+    "Theory/NumPy end.md",
+    "Theory/Pasted image 20240408180245.png",
+    "Theory/Pasted image 20240408175513.png",
+    "Theory/Pasted image 20240408175502.png",
+    "Theory/Pasted image 20240408175301.png",
+    "Theory/Seeking Balance.md",
+    "Theory/Pasted image 20240408175011.png",
+    "Theory/Pasted image 20240408174904.png",
+    "Theory/Pasted image 20240408174826.png",
+    "Theory/Big O.md",
+    "Excalidraw/Drawing 2024-04-07 19.44.41.excalidraw.md",
+    "Theory/Multi-variate Linear Regression.md",
+    "Theory/Interacting with DataFrames.md",
     "Theory/Choosing the Model.md",
     "Theory/Splitting Data.md",
+    "Theory/Types of Machine Learning.md",
     "Theory/Iris Dataset.md",
     "Theory/Visualization.md",
     "Theory/Time Data.md",
-    "Theory/Interacting further with DataFrames.md",
-    "Theory/Interacting with DataFrames.md",
-    "Excalidraw/Drawing 2024-04-08 10.36.34.excalidraw.md",
-    "Theory/Pandas Indexer.md",
-    "Theory/Pandas DataFrame.md",
-    "Theory/Pandas Series.md",
-    "Excalidraw/Drawing 2024-04-07 19.44.41.excalidraw.md",
     "Excalidraw",
-    "Algorithm/Palindrome.md",
-    "Algorithm/Algorithms Home Page.md",
-    "Algorithm/Fibonacci.md",
-    "Algorithm/Factorial.md",
     "Theory/Pasted image 20240404190021.png",
     "Theory",
-    "Algorithm/Pasted image 20240331180028.png",
     "Series",
-    "Algebra/Pasted image 20240301174908.png",
-    "Number Theory/Pasted image 20240229161601.png",
-    "Algebra/Pasted image 20240301141259.png",
-    "Algebra/Pasted image 20240301141054.png",
     "Number Theory/Excalidraw",
     "Algebra",
     "Number Theory"

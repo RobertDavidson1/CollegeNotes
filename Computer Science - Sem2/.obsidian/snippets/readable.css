@@ -1,0 +1,6 @@
+.readable.markdown-preview-view.is-readable-line-width .markdown-preview-sizer,
+.readable.is-live-preview.is-readable-line-width .cm-sizer,
+.readable.markdown-preview-view .markdown-preview-sizer,
+.readable.is-live-preview .cm-sizer {
+  max-width: 100%; /* adjust according to preference */
+}
