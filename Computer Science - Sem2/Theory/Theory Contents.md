@@ -1,4 +1,4 @@
-- [[Big O]]
+[[Exam Prep]]
 
 **Intro**
 - [[IPython added functionality]]
@@ -31,3 +31,8 @@
 **Exploring Different Models**
 - [[Uni-variate Linear Regression]]
 - [[Multi-variate Linear Regression]]
+- [[Seeking Balance]]
+- [[R Values]]
+- [[Unsupervised Learning]]
+- [[Neural Networks]]
+- 

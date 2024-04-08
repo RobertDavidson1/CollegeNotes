@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory/Theory Contents.md",
-                "mode": "source",
+                "file": "Theory/Unsupervised Learning.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Theory Contents.md",
+                "file": "Theory/Unsupervised Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Theory Contents.md",
+                "file": "Theory/Unsupervised Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Theory Contents.md"
+                "file": "Theory/Unsupervised Learning.md"
               }
             }
           }
@@ -151,12 +151,18 @@
   },
   "active": "fbff0a84337c5b9d",
   "lastOpenFiles": [
-    "Theory/Over-fitting.md",
     "Theory/Theory Contents.md",
+    "Theory/Unsupervised Learning.md",
+    "Theory/Exam Prep.md",
+    "Theory/Neural Networks.md",
+    "Theory/Seeking Balance.md",
+    "Theory/R Values.md",
+    "Theory/Multi-variate Linear Regression.md",
+    "Theory/Types of Machine Learning.md",
+    "Theory/Over-fitting.md",
     "Theory/Uni-variate Linear Regression.md",
     "Theory/Choosing the Model.md",
     "Theory/Splitting Data.md",
-    "Theory/Types of Machine Learning.md",
     "Theory/Iris Dataset.md",
     "Theory/Visualization.md",
     "Theory/Time Data.md",
@@ -172,12 +178,6 @@
     "Algorithm/Algorithms Home Page.md",
     "Algorithm/Fibonacci.md",
     "Algorithm/Factorial.md",
-    "Algorithm/Binary Power.md",
-    "Algorithm/Binary Search.md",
-    "Theory/NumPy end.md",
-    "Theory/uFuncs and Broadcasting.md",
-    "Theory/Interacting with ndarray.md",
-    "Theory/NumPy Intro.md",
     "Theory/Pasted image 20240404190021.png",
     "Theory",
     "Algorithm/Pasted image 20240331180028.png",
