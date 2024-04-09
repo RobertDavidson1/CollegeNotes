@@ -23,7 +23,7 @@ ___
 	- *CPU Cache Performance:* Contiguous memory boosts speed via better CPU cache use.
 	- *Modern CPU Instructions:* NumPy optimized for current CPUs for faster calculations.
 - **Advantages:**
-	- *Memory Efficiency:* Fewer bytes than Python lists
+	- *Memory Efficiency:* Fewer bytes than Python lists ^4c1cdc
 	- *Iterating through lists:* Is much faster than with NumPy
 ___
 

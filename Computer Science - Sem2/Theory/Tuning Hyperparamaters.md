@@ -1,18 +1,16 @@
 ---
 
 ---
----
 
-cssclass: readable
 
----
+
 
 - Regression is a classification algorithm
 
 
 - Parameters would be the intercept and coefficients of the model
 
-- **Hyperparameters** control the model or learning process
+- **Hyper parameters** control the model or learning process
 	- *Outside of the model*
 	- **Examples**
 		- Train-test split ration

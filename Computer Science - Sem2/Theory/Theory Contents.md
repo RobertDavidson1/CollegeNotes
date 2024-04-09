@@ -1,11 +1,13 @@
 ## Introduction
 - Basics
-  - [[IPython added functionality]]
+  - [[IPython and Jupyter]]
   - [[Types]]
 
 ## Core Python Data Analysis
 ### Numpy
 - [[NumPy Intro]]
+- [[Array Creation]]
+- [[NumPy Random Module]]
 - [[Interacting with ndarray]]
 - [[uFuncs and Broadcasting]]
 - [[NumPy end]]

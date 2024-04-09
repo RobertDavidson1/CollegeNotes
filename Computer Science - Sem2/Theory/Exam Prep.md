@@ -1,30 +1,25 @@
 ## Jupyter/Python Basics
 - [ ] Importing Packages
-- [ ] Ipython/Jupyter line/cell magic e.g. `%timeit`
-- [ ] Help syntax
-- [ ] Input/Output history
+- [ ] [[IPython and Jupyter#^a26f81|IPython & Jupyter & cell magic]] e.g. `%timeit`
+- [ ] [[IPython and Jupyter#^ee816b|Help syntax]]
+- [ ] [[IPython and Jupyter#^368186|Input & Output history]]
 
 ## Data Types and Numpy
-- [ ] Static vs Dynamic typing
-- [ ] Integer Type in Python vs Numpy
-- [ ] Python List vs Numpy List
-- [ ] Differences in Memory and Efficiency Python vs Numpy
+- [ ] [[Types#Dynamic vs Statically types|Static vs Dynamic typing]]
+- [ ] [[Integer Type in Python vs Numpy]]
+	
+- [ ] [[NumPy Intro|Python List vs Numpy List]]
+- [ ] [[NumPy Intro#^4c1cdc|Memory and Efficiency Python vs NumPy]]
 
 ## Numpy Syntax & Usage
 
 - [ ] Values are generated within the half-open interval [start, stop) (in other words, the interval including start but excluding stop).
-- [ ] Array creation
-- [ ] `.zeros` and `.ones` and `.eye`
-- [ ] `.full` and `.empty`
-- [ ] `.arange([start, ]stop, [step, ])` and `.linspace(start, stop, num)`
-- [ ] `.random*`
+- [ ] [[Array Creation|Array creation]]
+- [ ] [[Numpy Random Module]]
 - [ ] Numpy Data Types {int*, uint*, float*, complex*}
 - [ ] Comparison of Numpy/Python arrays
 - [ ] Array Attributes
-- [ ] `.dtype`
-- [ ] `.shape`
-- [ ] `.itemsize`
-- [ ] `.nbytes`
+
 - [ ] Indexing Numpy Arrays
 - [ ] Slicing Numpy Arrays `[start:stop:step]`
 - [ ] Array copying & Reshaping
