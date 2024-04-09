@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory/Exam Prep.md",
+                "file": "Theory/uFuncs and Broadcasting.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory/Theory Contents.md",
+                "file": "Theory/Exam Prep.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Theory Contents.md",
+                "file": "Theory/Exam Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Theory Contents.md",
+                "file": "Theory/Exam Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Theory Contents.md"
+                "file": "Theory/Exam Prep.md"
               }
             }
           }
@@ -165,11 +165,13 @@
   },
   "active": "c563b520a102568a",
   "lastOpenFiles": [
-    "Theory/NumPy Intro.md",
+    "Theory/uFuncs and Broadcasting.md",
     "Theory/Theory Contents.md",
     "Theory/Interacting with ndarray.md",
-    "Theory/NumPy end.md",
     "Theory/Exam Prep.md",
+    "Theory/NumPy Data types.md",
+    "Theory/NumPy Intro.md",
+    "Theory/NumPy end.md",
     "Theory/NumPy Random Module.md",
     "Theory/Array Creation.md",
     "Theory/IPython and Jupyter.md",
@@ -198,8 +200,6 @@
     "Theory/Pasted image 20240408174826.png",
     "Theory/Big O.md",
     "Excalidraw/Drawing 2024-04-07 19.44.41.excalidraw.md",
-    "Theory/Multi-variate Linear Regression.md",
-    "Theory/Interacting with DataFrames.md",
     "Excalidraw",
     "Theory/Pasted image 20240404190021.png",
     "Theory",

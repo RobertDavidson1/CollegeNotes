@@ -16,19 +16,16 @@
 - [ ] Values are generated within the half-open interval [start, stop) (in other words, the interval including start but excluding stop).
 - [ ] [[Array Creation|Array creation]]
 - [ ] [[Numpy Random Module]]
-- [ ] Numpy Data Types {int*, uint*, float*, complex*}
-- [ ] Comparison of Numpy/Python arrays
-- [ ] Array Attributes
-
-- [ ] Indexing Numpy Arrays
-- [ ] Slicing Numpy Arrays `[start:stop:step]`
-- [ ] Array copying & Reshaping
-- [ ] `.newaxis`
-- [ ] `.split`
-- [ ] Ufuncs
+- [ ] [[Numpy Data Types]] 
+- [ ] [[NumPy Intro#^a63500|Comparison of Numpy/Python arrays]]
+- [ ] [[NumPy Intro#^dc742a|Array Attributes]]
+- [ ] [[Interacting with ndarray#^fd99c9|Indexing Numpy Arrays]]
+- [ ] [[Interacting with ndarray#^efadfd|Slicing Numpy Arrays]] `[start:stop:step]`
+- [ ] [[Interacting with ndarray#^8ef533|Array copying & Reshaping]]
+- [ ] [[uFuncs and Broadcasting#^8df3da|Ufuncs]]
 - [ ] Meaning & advantage
 - [ ] Binary & Unary
-- [ ] arithmetic/trig/exp/log
+
 - [ ] Aggregates
 - [ ] `.reduce`
 - [ ] `.accumulate`

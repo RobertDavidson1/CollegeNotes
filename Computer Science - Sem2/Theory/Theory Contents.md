@@ -8,6 +8,7 @@
 - [[NumPy Intro]]
 - [[Array Creation]]
 - [[NumPy Random Module]]
+- [[NumPy Data types]]
 - [[Interacting with ndarray]]
 - [[uFuncs and Broadcasting]]
 - [[NumPy end]]

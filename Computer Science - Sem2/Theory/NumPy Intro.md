@@ -1,9 +1,9 @@
 - **Python lists**: *pointer to a block of pointers*
 
-- **NumPy arrays:** fixed type and essentially *pointers to a contiguous block of data*
+- **NumPy arrays:** fixed type and essentially *pointers to a contiguous block of data* ^a63500
 
 ___
-- `ndarray` attributes:
+- `ndarray` attributes: ^dc742a
 	- `dtype` : data type
 	- `ndim`: number of dimensions
 	- `shape`: size of each dimension

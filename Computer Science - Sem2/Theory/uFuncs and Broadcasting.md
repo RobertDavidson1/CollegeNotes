@@ -4,21 +4,19 @@
 	- **Unary:** one argument
 	- **Binary:** two arguments
 
-<br>
-
 - Examples of uFuncs:
-	- `power`
-	- `add`
-	- `sin`
-	- `cos`
+	- np.power, np.sin, np.add, np.cos
 
-<br>
-
-- uFuncs are sometimes automatically called when the relevant notion is used 
+- uFuncs are sometimes automatically called when the relevant notion is used  ^8df3da
 	- e.g. `add(a,b)` is called when `a+b` is written if `a&b` are ndarray.
 
-<br>
+- **Advantages:**
+	- Written in *compiled C* code, much faster than Python Loops
+	- *Broadcasting* (makes it easier to perform operations on arrays without need for manual size alignment)
+	- *Type flexibility* 
+	- *Readability*
 
+___
 - Python's `reduce`: takes a list of entries of type `t` and returns something of type `t`
 - In NumPy, reduce is often called to reduce a list to a value
 - NumPy uFuncs have `reduce` method built in

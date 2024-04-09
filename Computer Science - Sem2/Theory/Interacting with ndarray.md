@@ -10,6 +10,8 @@ $$\{-N,\ -N+1,\ \dots,\ -1,\ 0,\ 1,\ \dots,\ N-2,\ N-1\}$$
 > - *1-D Array:* `a[index]`
 > - *Multi-D Array:* `a[ith_row][jth_column]`
 
+^fd99c9
+
 >[!eq] **Slicing Arrays:**
 >- *1-D Slices:* `a[i:j]` 
 > 	- i to j-1 entries
@@ -21,10 +23,14 @@ $$\{-N,\ -N+1,\ \dots,\ -1,\ 0,\ 1,\ \dots,\ N-2,\ N-1\}$$
 >	- k to l-1 row of that layer
 >	- m to n-1 column of that layer and row
 
+^efadfd
+
 >[!eq] **Copies:**
 > - Assigning an array to a *new variable* and interacting with the new variable *will edit the original array*
 > - We can avoid this with the *copy* method
 > -  `b = a[1:,1:].copy()`
+
+^8ef533
 
 >[!eq] **Reshaping:**
 >- We can reshape arrays into other sizes
