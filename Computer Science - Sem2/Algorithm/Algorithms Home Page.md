@@ -1,5 +1,8 @@
 - [[Binary Search]]
+- [[Multiply]]
 - [[Binary Power]]
 - [[Factorial]]
 - [[Fibonacci]]
 - [[Palindrome]]
+- [[Hanoi]]
+- [[Merge Sort]]
