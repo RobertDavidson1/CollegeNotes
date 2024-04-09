@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory/uFuncs and Broadcasting.md",
+                "file": "Algorithm/Algorithms Home Page.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory/Exam Prep.md",
+                "file": "Theory/NumPy Intro.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Exam Prep.md",
+                "file": "Algorithm/Algorithms Home Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Exam Prep.md",
+                "file": "Algorithm/Algorithms Home Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Exam Prep.md"
+                "file": "Algorithm/Algorithms Home Page.md"
               }
             }
           }
@@ -163,21 +162,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c563b520a102568a",
+  "active": "0a5fd31c54d0deb0",
   "lastOpenFiles": [
-    "Theory/uFuncs and Broadcasting.md",
+    "Algorithm/Factorial.md",
+    "Algorithm/Algorithms Home Page.md",
     "Theory/Theory Contents.md",
-    "Theory/Interacting with ndarray.md",
+    "Algorithm/Binary Power.md",
+    "Algorithm/Binary Search.md",
+    "Theory/Array Creation.md",
     "Theory/Exam Prep.md",
-    "Theory/NumPy Data types.md",
     "Theory/NumPy Intro.md",
+    "Theory/Types.md",
+    "Theory/Integer Type in Python vs Numpy.md",
+    "Theory/uFuncs and Broadcasting.md",
+    "Theory/IPython and Jupyter.md",
+    "Theory/Interacting with ndarray.md",
+    "Theory/NumPy Data types.md",
     "Theory/NumPy end.md",
     "Theory/NumPy Random Module.md",
-    "Theory/Array Creation.md",
-    "Theory/IPython and Jupyter.md",
     "Theory/Neural Networks.md",
-    "Theory/Integer Type in Python vs Numpy.md",
-    "Theory/Types.md",
     "Theory/Tuning Hyperparamaters.md",
     "Theory/Clustering Algorithms.md",
     "Theory/Pasted image 20240408200804.png",
@@ -189,17 +192,13 @@
     "Theory/Uni-variate Linear Regression.md",
     "Theory/Over-fitting.md",
     "Theory/R Values.md",
-    "Theory/Variance and Bias.md",
     "Theory/Pasted image 20240408180245.png",
     "Theory/Pasted image 20240408175513.png",
     "Theory/Pasted image 20240408175502.png",
     "Theory/Pasted image 20240408175301.png",
-    "Theory/Seeking Balance.md",
     "Theory/Pasted image 20240408175011.png",
     "Theory/Pasted image 20240408174904.png",
     "Theory/Pasted image 20240408174826.png",
-    "Theory/Big O.md",
-    "Excalidraw/Drawing 2024-04-07 19.44.41.excalidraw.md",
     "Excalidraw",
     "Theory/Pasted image 20240404190021.png",
     "Theory",

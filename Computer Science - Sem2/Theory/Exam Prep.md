@@ -1,13 +1,11 @@
 ## Jupyter/Python Basics
-- [ ] Importing Packages
-- [ ] [[IPython and Jupyter#^a26f81|IPython & Jupyter & cell magic]] e.g. `%timeit`
-- [ ] [[IPython and Jupyter#^ee816b|Help syntax]]
-- [ ] [[IPython and Jupyter#^368186|Input & Output history]]
+- [x] [[IPython and Jupyter#^a26f81|IPython & Jupyter & cell magic]] e.g. `%timeit`
+- [x] [[IPython and Jupyter#^ee816b|Help syntax]]
+- [x] [[IPython and Jupyter#^368186|Input & Output history]]
 
 ## Data Types and Numpy
 - [ ] [[Types#Dynamic vs Statically types|Static vs Dynamic typing]]
 - [ ] [[Integer Type in Python vs Numpy]]
-	
 - [ ] [[NumPy Intro|Python List vs Numpy List]]
 - [ ] [[NumPy Intro#^4c1cdc|Memory and Efficiency Python vs NumPy]]
 

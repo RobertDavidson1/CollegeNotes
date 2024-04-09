@@ -1,22 +1,23 @@
-- [ ] `.zeros` and `.ones` and `.eye`
-- [ ] `.full` and `.empty`
-- [ ] `.arange([start, ]stop, [step, ])` and `.linspace(start, stop, num)`
-- [ ] `.random*`
+### Array Creation with Specific Values
 
-- **`np.zeros`: return a new array of a given shape and types**
-- **`np.ones`: return a new array of given shape and type filled with ones** 
-- **`np.eye`: return a 2-D array with ones on diagonal and zeroes elsewhere**
+- **`np.zeros`**: Returns a new array of a given shape and type, filled with zeros.
+- **`np.ones`**: Returns a new array of a given shape and type, filled with ones.
+- **`np.full`**: Returns a new array of a given shape and type, filled with a specified fill value.
+- **`np.empty`**: Returns a new array of a given shape and type, without initializing entries, which means the content is essentially random and depends on the state of the memory.
 
-___
-- **`np.full`: return a new array of given shape and type filled with fill value**
-- **`np.empty:`: return a new array of given shape and type without initializing entries**
-___
-- **`np.arrange(start, stop, step, dtype, like)`: return evenly spaced values withing a given interval**
-	- `start`: start of the interval (inclusive), default is 0
-	- `stop:` end of interval, (non-inclusive), 
-	- `step`: spacing between values
-- **`np.linspace(start, stop, num`: return evenly spaced numbers over a specified interval:**
-	- `start`: starting value of sequence
-	- `stop`: end value of the sequence 
-	- `num`: number of samples to generate (default is 50)
-___
+### Specialized Array Structures
+
+- **`np.eye`**: Returns a 2-D array with ones on the diagonal and zeros elsewhere. Useful for creating identity matrices.
+
+### Generating Sequences of Numbers
+
+- **`np.arange` (corrected from `np.arrange`)**: Returns evenly spaced values within a given interval. It accepts parameters like `start`, `stop`, `step`, and optionally `dtype`. The `like` parameter is less commonly used and allows specifying the array-like object to use for creating the output array.
+    
+    - `start`: The start of the interval (inclusive). Defaults to 0 if not specified.
+    - `stop`: The end of the interval (exclusive).
+    - `step`: The spacing between values. Defaults to 1 if not specified.
+- **`np.linspace`**: Returns evenly spaced numbers over a specified interval. It is similar to `np.arange` but instead of specifying the step size, you specify the number of samples to generate.
+    
+    - `start`: The starting value of the sequence.
+    - `stop`: The end value of the sequence.
+    - `num`: The number of samples to generate. Defaults to 50 if not specified.

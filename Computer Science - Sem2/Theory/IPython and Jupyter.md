@@ -9,6 +9,7 @@
 	- len? or L.append?
 
 - % : ^a26f81
+	- Magic command (implemented by Jupyter and IPython)
 	- Called outside of Python
 	- %timeit : time function
 	- %bash : write bash in cell
