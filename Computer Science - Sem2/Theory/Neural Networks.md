@@ -16,4 +16,3 @@ ___
 	- Applied the function
 	- Output is the value for the neuron
 - **Learns:** through significant number of trial and errors
-- 
