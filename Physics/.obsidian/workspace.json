@@ -1,34 +1,20 @@
 {
   "main": {
-    "id": "1f38f4a932d2d97c",
+    "id": "7a59932c520f4077",
     "type": "split",
     "children": [
       {
-        "id": "1f41155fcc8206e7",
+        "id": "e6956467ccf3b6ba",
         "type": "tabs",
         "children": [
           {
-            "id": "0a5fd31c54d0deb0",
+            "id": "14853d09d7803fdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory/Neural Networks.md",
+                "file": "Contents/Wave Optics.md",
                 "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c563b520a102568a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory/NumPy Intro.md",
-                "mode": "preview",
-                "backlinks": false,
                 "source": false
               }
             }
@@ -39,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "83fc1afffb9a7b71",
+    "id": "db73a407a4dba14e",
     "type": "split",
     "children": [
       {
-        "id": "b23c023f627054f5",
+        "id": "c7f98aacde3450a8",
         "type": "tabs",
         "children": [
           {
-            "id": "f56fe916c3f9323c",
+            "id": "5bed16cfcfe8759f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -57,7 +43,7 @@
             }
           },
           {
-            "id": "ffdeb4d5a86870dc",
+            "id": "a835131b988019de",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -72,35 +58,34 @@
             }
           },
           {
-            "id": "2fd59c0ef4e892d0",
+            "id": "56ac6423bdfb837c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "7d7c383c832ac0de",
+    "id": "0e07ec9e0a50ab98",
     "type": "split",
     "children": [
       {
-        "id": "928a529fe2b22def",
+        "id": "a2715cf6aca7d210",
         "type": "tabs",
         "children": [
           {
-            "id": "7f6b93d4ecbb40ff",
+            "id": "6bbf0d67262f3e21",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Neural Networks.md",
+                "file": "Contents/Wave Optics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,19 +97,19 @@
             }
           },
           {
-            "id": "48a57d8fd7f901ef",
+            "id": "e83c7400cf1c72a4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Neural Networks.md",
+                "file": "Contents/Wave Optics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6bfd1307cb6eaa83",
+            "id": "f65695898e505e4a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,12 +120,12 @@
             }
           },
           {
-            "id": "5fb50a04443bc950",
+            "id": "0efaeea907f1a5a1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Neural Networks.md"
+                "file": "Contents/Wave Optics.md"
               }
             }
           }
@@ -158,53 +143,31 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "0a5fd31c54d0deb0",
+  "active": "14853d09d7803fdc",
   "lastOpenFiles": [
-    "Theory/Theory Contents.md",
-    "Algorithm/Merge Sort.md",
-    "Algorithm/Algorithms Home Page.md",
-    "Algorithm/Multiply.md",
-    "Algorithm/Hanoi.md",
-    "Algorithm/Palindrome.md",
-    "Algorithm/Fibonacci.md",
-    "Algorithm/Binary Search.md",
-    "Algorithm/Factorial.md",
-    "Algorithm/Binary Power.md",
-    "Theory/Array Creation.md",
-    "Theory/Exam Prep.md",
-    "Theory/NumPy Intro.md",
-    "Theory/Types.md",
-    "Theory/Integer Type in Python vs Numpy.md",
-    "Theory/uFuncs and Broadcasting.md",
-    "Theory/IPython and Jupyter.md",
-    "Theory/Interacting with ndarray.md",
-    "Theory/NumPy Data types.md",
-    "Theory/NumPy end.md",
-    "Theory/NumPy Random Module.md",
-    "Theory/Neural Networks.md",
-    "Theory/Tuning Hyperparamaters.md",
-    "Theory/Clustering Algorithms.md",
-    "Theory/Pasted image 20240408200804.png",
-    "Theory/Pasted image 20240408200803.png",
-    "Theory/PCA.md",
-    "Theory/Unsupervised Learning.md",
-    "Theory/Pasted image 20240408180245.png",
-    "Theory/Pasted image 20240408175513.png",
-    "Theory/Pasted image 20240408175502.png",
-    "Theory/Pasted image 20240408175301.png",
-    "Theory/Pasted image 20240408175011.png",
-    "Theory/Pasted image 20240408174904.png",
-    "Theory/Pasted image 20240408174826.png",
-    "Excalidraw",
-    "Theory/Pasted image 20240404190021.png",
-    "Theory",
-    "Series",
-    "Number Theory/Excalidraw",
-    "Algebra",
-    "Number Theory"
+    "Contents/Physics Contents.md",
+    "Contents/Wave Optics.md",
+    "Contents/Optical Instruments.md",
+    "Contents/Pasted image 20240409215829.png",
+    "Contents/The Eye.md",
+    "Contents/Lenses.md",
+    "Contents/Refraction.md",
+    "Contents/Untitled.md",
+    "Contents/Mirrors.md",
+    "Contents/Electromagnetism.md",
+    "Contents/Magnetism.md",
+    "Contents/Circuits and Resistance.md",
+    "Contents/Electric Potential.md",
+    "Contents/DC Instruments.md",
+    "Untitled.md",
+    "Contents/Electric Charge.md",
+    "Contents/Waves.md",
+    "Contents/Interference.md",
+    "Contents/Sound.md",
+    "Welcome.md",
+    "Contents"
   ]
 }
