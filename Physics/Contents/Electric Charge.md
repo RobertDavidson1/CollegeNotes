@@ -19,7 +19,7 @@ ___
 ##### Electric Field:
 - Electric field $\vec E$ at a point is the electrostatic force per unit charge experienced by a small positive test charge placed at that point
 $$\large\vec E = \dfrac{\vec F}{q}$$
-$$E = k\dfrac{|Q|}{r^2}\quad\text{Magnitude of field a distance r from point charge Q}$$
+$$E = k\dfrac{|Q|}{r^2}\quad\begin{align*}&\text{Magnitude of field a distance r from point charge Q}\\&\text{where }k = 8.99\times10^9\end{align*}$$
 
 - If Q is $-ve$ the force on positive charge is attractive (field point towards q)
  - If Q is $+ve$ the force on positive charge is repulsive (field point away q)

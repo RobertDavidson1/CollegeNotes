@@ -17,3 +17,7 @@
 - [[The Eye]]
 - [[Optical Instruments]]
 - [[Wave Optics]]
+- [[Photoelectric Effect]]
+- [[DeBroglie]]
+- [[Bohr Model]]
+- [[Radioactivity]]

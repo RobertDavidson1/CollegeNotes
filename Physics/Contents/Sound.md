@@ -39,7 +39,7 @@ $I = \dfrac{P}{A} = \dfrac{P}{4\pi r^2}$
 
 **Intensity Level**
 
-$\beta=10\log_{10}\left(\dfrac{I}{I_0}\right) \text{dB(decibels)}$
+$\beta=10\log_{10}\left(\dfrac{I}{I_0}\right) \text{dB(decibels)} \quad\begin{align*}&I: \text{Actual intensity}\\ &I_o : \text{Base Intensity}\end{align*}$
 
 **Doppler Towards:**
 
