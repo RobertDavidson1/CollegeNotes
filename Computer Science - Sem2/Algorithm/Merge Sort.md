@@ -1,51 +1,46 @@
 ```python
-def merge(left_list, right_list):
-sorted_list = []
-left_index = 0
-right_index = 0
+def merge_sort(arr):
+    if len(arr) > 1:
+        # Finding the mid of the array
+        mid = len(arr) // 2
 
-# Merge the left and right lists
-while left_index < len(left_list) and right_index < len(right_list):
-	if left_list[left_index] <= right_list[right_index]:
-		sorted_list.append(left_list[left_index])
-		left_index += 1 # Move to the next item in the left list
+        # Dividing the array elements into 2 halves
+        L = arr[:mid]
+        R = arr[mid:]
 
-	else:
-		sorted_list.append(right_list[right_index])
-		right_index += 1 # Move to the next item in the right list
-  
-# Add the remaining elements from either the left or the right list
-while left_index < len(left_list):
-	sorted_list.append(left_list[left_index])
-	left_index += 1
-  
-while right_index < len(right_list):
-	sorted_list.append(right_list[right_index])
-	right_index += 1
+        # Sorting the first half
+        merge_sort(L)
 
-return sorted_list
+        # Sorting the second half
+        merge_sort(R)
 
-  
-  
-def merge_sort(array):
-if len(array) < 2:
-	return array
+        i = j = k = 0
 
-else:
-	middle_point = len(array) // 2
-	left_half = merge_sort(array[:middle_point])
-	right_half = merge_sort(array[middle_point:])
-	return merge(left_half, right_half)
+        # Merging the sorted halves
+        while i < len(L) and j < len(R):
+            if L[i] < R[j]:
+                arr[k] = L[i]
+                i += 1
+            else:
+                arr[k] = R[j]
+                j += 1
+            k += 1
+
+        # Checking if any element was left
+        while i < len(L):
+            arr[k] = L[i]
+            i += 1
+            k += 1
+
+        while j < len(R):
+            arr[k] = R[j]
+            j += 1
+            k += 1
+
 
 # Example usage
-import random
-# Generate a list of 2000 random numbers between -5000 and 5000
-random_numbers = [random.randrange(-5000, 5000) for _ in range(2000)]
-print(random_numbers)
+arr = [38, 27, 43, 3, 9, 82, 10]
+merge_sort(arr)
+print("Sorted array is:", arr)
 
-  
-
-# Sort the list
-sorted_numbers = merge_sort(random_numbers)
-print(sorted_numbers)
 ```
