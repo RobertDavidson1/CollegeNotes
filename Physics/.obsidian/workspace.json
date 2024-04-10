@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e6956467ccf3b6ba",
+        "id": "0c9df646523e96ba",
         "type": "tabs",
         "children": [
           {
-            "id": "14853d09d7803fdc",
+            "id": "efe5a0e23bad2331",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Light Definitions.md",
+                "file": "Contents/DeBroglie.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Light Definitions.md",
+                "file": "Contents/DeBroglie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Light Definitions.md",
+                "file": "Contents/DeBroglie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Light Definitions.md"
+                "file": "Contents/DeBroglie.md"
               }
             }
           }
@@ -147,26 +147,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14853d09d7803fdc",
+  "active": "efe5a0e23bad2331",
   "lastOpenFiles": [
     "Contents/Physics Contents.md",
     "Contents/Mirrors.md",
-    "Contents/Light Definitions.md",
-    "Contents/Refraction.md",
+    "Contents/Optical Instruments.md",
+    "Contents/Circuits and Resistance.md",
+    "Contents/Electric Potential.md",
+    "Contents/Electric Charge.md",
+    "Contents/Interference.md",
     "Contents/Sound.md",
     "Contents/Waves.md",
+    "Contents/Light Definitions.md",
+    "Contents/Refraction.md",
     "Contents/Radioactivity.md",
     "Contents/Bohr Model.md",
     "Contents/DeBroglie.md",
     "Contents/Photoelectric Effect.md",
     "Contents/Wave Optics.md",
     "Contents/The Eye.md",
-    "Contents/Optical Instruments.md",
     "Contents/Magnetism.md",
-    "Contents/Circuits and Resistance.md",
-    "Contents/Electric Potential.md",
-    "Contents/Electric Charge.md",
-    "Contents/Interference.md",
     "Contents/Pasted image 20240409215829.png",
     "Contents/Lenses.md",
     "Contents/Untitled.md",

@@ -1,4 +1,4 @@
-- **Transverse waves:** displacement perp to direction of propagation wave
+- **Transverse waves:** displacement perpependiclar to direction of propagation wave
 	- waves on rope, EM waves
 - **Longitudinal waves:** displacement parallel to direction of propagation wave
 	- sound waves, spring compressions
