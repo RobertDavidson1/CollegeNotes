@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Radioactivity.md",
-                "mode": "preview",
+                "file": "Contents/Light Definitions.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Radioactivity.md",
+                "file": "Contents/Light Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Radioactivity.md",
+                "file": "Contents/Light Definitions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Radioactivity.md"
+                "file": "Contents/Light Definitions.md"
               }
             }
           }
@@ -150,25 +150,26 @@
   "active": "14853d09d7803fdc",
   "lastOpenFiles": [
     "Contents/Physics Contents.md",
+    "Contents/Mirrors.md",
+    "Contents/Light Definitions.md",
+    "Contents/Refraction.md",
+    "Contents/Sound.md",
+    "Contents/Waves.md",
     "Contents/Radioactivity.md",
     "Contents/Bohr Model.md",
     "Contents/DeBroglie.md",
     "Contents/Photoelectric Effect.md",
     "Contents/Wave Optics.md",
-    "Contents/Refraction.md",
     "Contents/The Eye.md",
     "Contents/Optical Instruments.md",
-    "Contents/Waves.md",
     "Contents/Magnetism.md",
     "Contents/Circuits and Resistance.md",
     "Contents/Electric Potential.md",
     "Contents/Electric Charge.md",
-    "Contents/Sound.md",
     "Contents/Interference.md",
     "Contents/Pasted image 20240409215829.png",
     "Contents/Lenses.md",
     "Contents/Untitled.md",
-    "Contents/Mirrors.md",
     "Contents/Electromagnetism.md",
     "Contents/DC Instruments.md",
     "Untitled.md",

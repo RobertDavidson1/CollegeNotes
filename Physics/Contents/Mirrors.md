@@ -35,4 +35,4 @@ ___
 $$\begin{align}&|d_o| = |di|\\\\ &d_0 = -di\\\\&m = \dfrac{h_i}{h_0}\end{align}$$
 
 **Concave Mirror:**
-$$\begin{align}&|d_o| = |di|\\\\ &\dfrac{1}{f} = \dfrac{1}{d_o} = \dfrac{1}{d_i}\\\\&m = \dfrac{h_i}{h_0}=-\dfrac{d_i}{d_o}\end{align}$$
+$$\begin{align}&|d_o| = |di|\\\\ &\dfrac{1}{f} = \dfrac{1}{d_o} + \dfrac{1}{d_i}\\\\&m = \dfrac{h_i}{h_0}=-\dfrac{d_i}{d_o}\end{align}$$

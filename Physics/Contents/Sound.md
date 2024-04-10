@@ -1,4 +1,6 @@
 - **Pitch:** how the brain interprets frequency (low frequency, low pitch )
+- **Fundamental frequency:** the lowest frequency which is produced by the of the whole of an object,
+- **Harmonic Frequency:** multiples of the fundamental frequency
 - **Pure Tone:** sound with a single frequency
 - **Hearing:** perception of sound
 - **Loudness:** subjective quantity related to amplitude
