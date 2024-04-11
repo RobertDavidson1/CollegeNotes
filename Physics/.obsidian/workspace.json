@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/DeBroglie.md",
-                "mode": "source",
+                "file": "Contents/Physics Contents.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0e07ec9e0a50ab98",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/DeBroglie.md",
+                "file": "Contents/Physics Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/DeBroglie.md",
+                "file": "Contents/Physics Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/DeBroglie.md"
+                "file": "Contents/Physics Contents.md"
               }
             }
           }
@@ -149,21 +149,21 @@
   },
   "active": "efe5a0e23bad2331",
   "lastOpenFiles": [
+    "Contents/DeBroglie.md",
     "Contents/Physics Contents.md",
-    "Contents/Mirrors.md",
-    "Contents/Optical Instruments.md",
+    "Contents/Photoelectric Effect.md",
+    "Contents/Waves.md",
+    "Contents/Refraction.md",
     "Contents/Circuits and Resistance.md",
     "Contents/Electric Potential.md",
     "Contents/Electric Charge.md",
-    "Contents/Interference.md",
     "Contents/Sound.md",
-    "Contents/Waves.md",
+    "Contents/Interference.md",
+    "Contents/Mirrors.md",
+    "Contents/Optical Instruments.md",
     "Contents/Light Definitions.md",
-    "Contents/Refraction.md",
     "Contents/Radioactivity.md",
     "Contents/Bohr Model.md",
-    "Contents/DeBroglie.md",
-    "Contents/Photoelectric Effect.md",
     "Contents/Wave Optics.md",
     "Contents/The Eye.md",
     "Contents/Magnetism.md",

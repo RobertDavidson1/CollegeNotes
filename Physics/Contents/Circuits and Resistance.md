@@ -20,7 +20,7 @@ ___
 **Resistors in series:**
 $$R_s = R_1 + R_2 + \dots$$
 
-**Resistors in parallel:**
+**Resistors in parallel:** Read Play Rest (Resistor Para Reciprocal)
 $$\dfrac{1}{R_p} = \dfrac{1}{R_1}+\dfrac{1}{R_2}+\dots$$
 
 **Capacitors in series:**

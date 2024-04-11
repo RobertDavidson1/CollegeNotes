@@ -11,7 +11,8 @@ $$V = \dfrac{EPE}{Q}\quad\quad\quad\begin{align*}&V:\text{Electric Potential}\\&
 
 ___
 
-
+**Work Done moving a particle across a potential difference**
+$$W = qV$$
 
 **Potential difference between two points in terms of work done moving charge**
 $$\Delta V = V_B - V_A = -\dfrac{W_{AB}}{q}$$
