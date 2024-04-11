@@ -19,6 +19,9 @@ ___
 **Angular Size**
 $$\theta = \dfrac{h_0}{d_0} = \dfrac{h_0}{N}\quad\quad\text{N: near point of eye}$$
 
+**Wavelength through Telescope:**
+$$\theta = 1.22 \dfrac{\lambda}{D}\quad\begin{align}&\theta: \text{Resolution (radians)}\\&\lambda: \text{Wavelength of light}\\&D:\text{Diameter of lens}\end{align}$$
+
 **Angular Magnification:**
 $$M=\frac{\theta^{\prime}}\theta $$
 
