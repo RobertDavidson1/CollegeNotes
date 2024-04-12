@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recap/Recap Contents.md",
-                "mode": "preview",
+                "file": "Probability/Conditional Probability.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recap/Recap Contents.md",
+                "file": "Probability/Conditional Probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recap/Recap Contents.md",
+                "file": "Probability/Conditional Probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recap/Recap Contents.md"
+                "file": "Probability/Conditional Probability.md"
               }
             }
           }
@@ -151,22 +151,22 @@
   },
   "active": "b4f85e2510ef4fdf",
   "lastOpenFiles": [
-    "Recap/Induction + Probability.md",
+    "Probability/Probability Contents.md",
+    "Recap/Integration.md",
     "Recap/Recap Contents.md",
+    "Recap/Induction + Probability.md",
     "Recap/Logic.md",
     "Recap/Types of Numbers.md",
     "Recap/Series + Sequences.md",
     "Recap/Set Properties.md",
     "Recap/Types of Correspondence.md",
     "Recap/Number Theorems.md",
-    "Recap/Integration.md",
     "Number Theory/Number Theory Contents.md",
     "Untitled.md",
     "Number Theory/Injective, Surjective, Bijective.md",
     "Series/Sequences and Series Contents.md",
     "Algebra/Algebra Contents.md",
     "Algebra/Injective and Surjective Functions.md",
-    "Probability/Probability Contents.md",
     "Recap/Images/TypesOf Numbers.png",
     "Recap/Images/TruthTable2.png",
     "Recap/Images",

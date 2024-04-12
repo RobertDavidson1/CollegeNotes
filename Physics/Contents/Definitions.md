@@ -1,6 +1,5 @@
 ---
-tags:
-  - flashcards
+tags: []
 ---
 
 
@@ -38,6 +37,7 @@ tags:
 - **Law of Conservation of Electric Charge:** The total charge is constant in any process.
 - **Electrostatic force:** Force stationary charges exert on each other.
 - **Electrical Conductors:** Materials that readily allow electric charge to move through them.
+- **Coulombs Law:** Magnitude of electrostatic force exerted by one point charge ($q_1$) on another point charge $(q_2)$ separated by a distance $r$ is: $F = k\dfrac{q_1 \cdot q_2}{r^2}$
 - **Electrical Insulators:** Materials that conduct electric charge poorly.
 - **Electric dipole:** A pair of charges of the same magnitude but opposite sign.
 - **Dipole moment:** Magnitude of electric dipole field is proportional to q×dq×d, where q is charge, d is distance.
