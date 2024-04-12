@@ -25,7 +25,7 @@ $P = \dfrac{E}{t}\quad \text{units: W(watts)}\quad\quad\begin{align*}&E\text{ : 
 
 **Intensity**
 
-$I = \dfrac{P}{A}\quad \text{units:}\;Wm^{-2}\quad\quad\begin{align*}&E\text{ : Energy}\\&t\text{ : time}\end{align*}$
+$I = \dfrac{P}{A}\quad \text{units:}\;Wm^{-2}\quad\quad\begin{align*}&P\text{ : Power}\\&t\text{ : time}\end{align*}$
 
 
 
@@ -43,9 +43,6 @@ $I = \dfrac{P}{A} = \dfrac{P}{4\pi r^2}$
 
 $\beta=10\log_{10}\left(\dfrac{I}{I_0}\right) \text{dB(decibels)} \quad\begin{align*}&I: \text{Actual intensity}\\ &I_o : \text{Base Intensity}\end{align*}$
 
-**Doppler Towards:**
+**Doppler Effect**
 
-$f_o = f_s \left(\frac{v}{v - v_s}\right) \quad\quad\begin{align*}&f_0:\text{observer freq} \\ &f_s: \text{sourse freq} \\ &v:\text{speed of sound} \\ &v_s: \text{speed of source}\end{align*}$
-
-**Doppler Away:**
-$f_{o} = f_{s} \left(\frac{v}{v + v_{s}}\right)$
+![[Pasted image 20240411201058.png | 1000| center]]
