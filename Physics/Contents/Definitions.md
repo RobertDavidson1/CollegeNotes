@@ -57,6 +57,7 @@ tags: []
 - **Kirchhoff's Voltage Law (Loop Rule):** Sum of all potential rises around any closed circuit loop equals the sum of all potential drops.
 
 ### Optical Phenomena
+- **Refraction :** change in direction of a w ave passing from one medium to another cause by its change in speed
 
 - **Focal length (f):** Distance between the pole of the mirror and the focal point.
 - **Law of reflection:** The incident ray, the reflected ray, and the normal to the surface all lie in the same plane, and the angle of reflection equals the angle of incidence (θr=θiθr​=θi​).

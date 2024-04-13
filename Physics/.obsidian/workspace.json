@@ -13,9 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Definitions.md",
-                "mode": "preview",
+                "file": "Contents/Sound.md",
+                "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "764a321c4c6adc24",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Contents/Pasted image 20240411201058.png"
+              }
+            }
+          },
+          {
+            "id": "0c4b63683f723eae",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-13 13.34.50.excalidraw.md"
               }
             }
           },
@@ -31,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "conser",
+                "query": "refraction",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Definitions.md",
+                "file": "Contents/Pasted image 20240411201058.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Definitions.md",
+                "file": "Contents/Pasted image 20240411201058.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Definitions.md"
+                "file": "Contents/Pasted image 20240411201058.png"
               }
             }
           },
@@ -166,38 +187,41 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efe5a0e23bad2331",
+  "active": "764a321c4c6adc24",
   "lastOpenFiles": [
+    "Contents/Sound.md",
     "Contents/Physics Contents.md",
-    "Contents/Flash Cards.md",
-    "Contents/Definitions.md",
-    "Contents/Electric Potential.md",
+    "Contents/Refraction.md",
+    "Contents/Mirrors.md",
     "Contents/Waves.md",
+    "Contents/Definitions.md",
+    "Contents/Circuits and Resistance.md",
+    "Contents/Double Slit Experiments.md",
+    "Excalidraw/Drawing 2024-04-13 13.34.50.excalidraw.md",
+    "Excalidraw",
+    "Contents/Lenses.md",
+    "Contents/Flash Cards.md",
+    "Contents/Electric Potential.md",
     "Contents/Photoelectric Effect.md",
     "Contents/DeBroglie.md",
     "Contents/Optical Instruments.md",
     "Contents/Electric Charge.md",
-    "Contents/Sound.md",
     "Contents/Pasted image 20240411201058.png",
     "Contents/tesf.md",
-    "Contents/Double Slit Experiments.md",
-    "Contents/Refraction.md",
-    "Contents/Mirrors.md",
     "Contents/The Eye.md",
     "Contents/Light Definitions.md",
     "Contents/Electromagnetism.md",
     "Contents/Magnetism.md",
     "Contents/DC Instruments.md",
-    "Contents/Circuits and Resistance.md",
     "Contents/Interference.md",
     "Contents/Radioactivity.md",
     "Contents/Bohr Model.md",
     "Contents/Wave Optics.md",
     "Contents/Pasted image 20240409215829.png",
-    "Contents/Lenses.md",
     "Contents"
   ]
 }
