@@ -34,6 +34,7 @@ ___
 - [[Mirrors]]
 - [[Refraction]]
 - [[Lenses]]
+- [[Lens and Mirror Rules]]
 - [[The Eye]]
 - [[Optical Instruments]]
 - [[Wave Optics]]
