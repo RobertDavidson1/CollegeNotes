@@ -15,7 +15,7 @@ def merge_sort(arr):
         merge_sort(R)
 
         i = j = k = 0
-<<<<<<< HEAD
+
 
         # Merging the sorted halves
         while i < len(L) and j < len(R):

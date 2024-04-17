@@ -11,6 +11,8 @@ ___
 >- **Integral calculus** is about the accumulation of quantities over intervals
 
 
+
+
 ### FToC
 
 >[!eq] Fundamental Theorem of Calculus (FToC)
