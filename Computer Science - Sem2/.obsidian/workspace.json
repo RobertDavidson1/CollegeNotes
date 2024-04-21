@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory/Theory Contents.md",
-                "mode": "preview",
+                "file": "Theory/Exam Prep.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory/NumPy Intro.md",
+                "file": "Theory/Theory Contents.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory/Theory Contents.md",
+                "file": "Theory/Exam Prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory/Theory Contents.md",
+                "file": "Theory/Exam Prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory/Theory Contents.md"
+                "file": "Theory/Exam Prep.md"
               }
             }
           }
@@ -164,34 +164,34 @@
   },
   "active": "0a5fd31c54d0deb0",
   "lastOpenFiles": [
-    "Algorithm/Algorithms Home Page.md",
     "Theory/Theory Contents.md",
+    "Algorithm/Algorithms Home Page.md",
+    "Theory/Exam Prep.md",
+    "Theory/Types of Machine Learning.md",
+    "Theory/Tuning Hyperparamaters.md",
+    "Theory/R Values.md",
+    "Theory/uFuncs and Broadcasting.md",
+    "Theory/NumPy Intro.md",
+    "Theory/Interacting with DataFrames.md",
+    "Theory/Pandas Indexer.md",
+    "Theory/Interacting further with DataFrames.md",
+    "Theory/Visualization.md",
+    "Theory/PCA.md",
+    "Theory/Variance and Bias.md",
+    "Theory/Clustering Algorithms.md",
+    "Theory/Neural Networks.md",
+    "Theory/Multi-variate Linear Regression.md",
+    "Theory/Uni-variate Linear Regression.md",
+    "Theory/Choosing the Model.md",
+    "Theory/Splitting Data.md",
     "Algorithm/Hanoi.md",
     "Algorithm/Merge Sort.md",
-    "Algorithm/Multiply.md",
-    "Algorithm/Fibonacci.md",
-    "Algorithm/Binary Search.md",
-    "Theory/Array Creation.md",
+    "Theory/Time Data.md",
+    "Theory/Pandas DataFrame.md",
+    "Theory/Pandas Series.md",
     "Theory/Interacting with ndarray.md",
-    "Algorithm/Factorial.md",
-    "Theory/Neural Networks.md",
-    "Algorithm/Palindrome.md",
-    "Algorithm/Binary Power.md",
-    "Theory/Exam Prep.md",
-    "Theory/NumPy Intro.md",
-    "Theory/Types.md",
-    "Theory/Integer Type in Python vs Numpy.md",
-    "Theory/uFuncs and Broadcasting.md",
-    "Theory/IPython and Jupyter.md",
-    "Theory/NumPy Data types.md",
-    "Theory/NumPy end.md",
-    "Theory/NumPy Random Module.md",
-    "Theory/Tuning Hyperparamaters.md",
-    "Theory/Clustering Algorithms.md",
     "Theory/Pasted image 20240408200804.png",
     "Theory/Pasted image 20240408200803.png",
-    "Theory/PCA.md",
-    "Theory/Unsupervised Learning.md",
     "Theory/Pasted image 20240408180245.png",
     "Theory/Pasted image 20240408175513.png",
     "Theory/Pasted image 20240408175502.png",

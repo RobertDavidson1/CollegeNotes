@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "9ab296e877d471b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a60ade5f26c6e6d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abc0d4104f0e18d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem 2 All.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f12876574e78b079",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/Sem 2 All 2024-02-21 14.57.38.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "9e7d656d1db57098",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/Sem 2 All 2024-01-31 15.25.16.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df18f39dd14a02b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "35be2d33fe1241f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c940f12cbf8959f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "bed4052a2c221d1e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "damp",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "7b97d33cefea55cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e118a2137ce16d34",
+    "type": "split",
+    "children": [
+      {
+        "id": "24507cdba336a9ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6759a0a172930743",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sem 2 All.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "caeef18a2b4d1810",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sem 2 All.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "978f15fcc7bc7ed4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7c4762fb245c3b90",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sem 2 All.md"
+              }
+            }
+          },
+          {
+            "id": "499fe8cf88139aa8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "abc0d4104f0e18d3",
+  "lastOpenFiles": [
+    "Calc and Trig Functions.md",
+    "Simple Harmonic Motion.md",
+    "Equations.md",
+    "Applied Math's.md",
+    "Sem 2 All.md",
+    "Images/Pasted image 20240306170824.png",
+    "Images/Sem 2 All 2024-02-21 14.57.38.excalidraw.md",
+    "Images/Pasted image 20240131175116.png",
+    "Images/Pasted image 20240131174948.png",
+    "Images/Pasted image 20240131174232.png",
+    "Images/Pasted image 20240131173825.png",
+    "Images/Pasted image 20240131173804.png",
+    "Images/Pasted image 20240131164930.png",
+    "Images/Sem 2 All 2024-01-31 15.25.16.excalidraw.md",
+    "Images/Pasted image 20240131151416.png",
+    "Images/Pasted image 20240131151253.png",
+    "Images/Pasted image 20240131150325.png",
+    "Circular Motion + Angular Momentum.md",
+    "1D Kinematics/Applied Math's.md",
+    "Images/diagram-20231103.pdf",
+    "Projectiles.md",
+    "Rel V. Practice Problems.md",
+    "Relative Vectors.md",
+    "Newtons Second Law (Vectors).md",
+    "1D Kinematics/Vector Equation of a line in two or three dimensions.md",
+    "1D Kinematics/Vectors.md",
+    "1D Kinematics/Vector Line Equation vs Standard Line Equation.md",
+    "Relationship between x and y -  Projectile.md",
+    "1D Kinematics/Find Magnitude and Angle of Two Vectors.md",
+    "1D Kinematics/Images/Position Vector 2023-10-19 22.16.48.excalidraw.md",
+    "1D Kinematics/Vector Equation of line through 3 points.md",
+    "1D Kinematics/Acceleration Vector.md",
+    "NSL Problem 1.md",
+    "Smooth Pulley - NSLV.md",
+    "Pulley System - NSLV.md",
+    "Range of Projectile.md",
+    "1D Kinematics/The Scalar or Dot Product.md",
+    "Images/diagram-20231103-2.pdf",
+    "Images/diagram-20231103-1.pdf",
+    "Images/Images",
+    "Images",
+    "Conservation of Momentum in 2",
+    "Vectors/Images",
+    "Vectors",
+    "Problem Sheets/Sheet Two.pdf",
+    "Problem Sheets/Sheet One.pdf"
+  ]
+}

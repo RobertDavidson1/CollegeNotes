@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Vectors  ",
+      "color": {
+        "a": 1,
+        "rgb": 16760331
+      }
+    },
+    {
+      "query": "path:\"1D Kinematics\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3835647
+      }
+    },
+    {
+      "query": "path:\"Newtons Laws of Motions\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711790
+      }
+    },
+    {
+      "query": "tag:Filler",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Problem Sheets\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8599788
+      }
+    },
+    {
+      "query": "file:Applied Math's",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Calculus  ",
+      "color": {
+        "a": 1,
+        "rgb": 16471559
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.401041666666667,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 476,
+  "scale": 0.18462326225858305,
+  "close": true
+}

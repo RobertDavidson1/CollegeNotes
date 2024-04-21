@@ -1,0 +1,18 @@
+.CodeMirror pre.CodeMirror-line {
+    padding-bottom: 15px;
+  }
+
+  .cm-s-obsidian pre.HyperMD-list-line {
+    padding-bottom: 15px !important;
+  }
+
+p{
+  line-height: 1.7; /* change this value accordingly */
+  display: block;
+  padding-top: 15px;  /* change this value accordingly */
+  padding-bottom: 15px; /* change this value accordingly */
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}

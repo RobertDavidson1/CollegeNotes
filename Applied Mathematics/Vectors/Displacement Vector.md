@@ -1,0 +1,15 @@
+## Displacement Vector:
+- consider an object located at some point $A$ which is displaced to another point $B$
+- Any displacement is described by the direction and distance moved
+- The displacement vector is a magnitude given by this distance and direction as given
+- We can represent this displacement vector as an arrow pointing from $A$ to $B$ who's magnitude is the length of the arrow
+- **Notation:**
+	- We will donate any vector by boldface print letters
+	- This is most commonly used notation for vectors in textbooks
+	- However, when writing vectors we use $\large \vec a$ or $\large \underline a$
+	- These *notations are designed to distinguish vectors from scalar variables*
+- **Magnitude:**
+	- Magnitude of $a$ is denoted by $|a|$ and is a non-negative scalar
+- **Shorthand convention:**
+	- Often the magnitude $|a|$ is denoted by $a$ (not boldface or underlined)
+	- For this reason above it is essential to be *careful and clear in your use of vector notation.*

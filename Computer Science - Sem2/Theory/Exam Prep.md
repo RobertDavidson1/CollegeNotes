@@ -22,23 +22,23 @@
 - [ ] [[Interacting with ndarray#^8ef533|Array copying & Reshaping]]
 - [ ] [[uFuncs and Broadcasting#^8df3da|Ufuncs]]
 - [ ] Meaning & advantage
-- [ ] Binary & Unary
+- [x] Binary & Unary
 
-- [ ] Aggregates
-- [ ] `.reduce`
-- [ ] `.accumulate`
-- [ ] `.sum` and `.prod`
-- [ ] Broadcasting Rules
-- [ ] Boolean Arrays
-- [ ] via comparisons
-- [ ] counting `.sum` and `.any` and `.all`
-- [ ] Masks & use via fancy indexing
+- [x] Aggregates
+- [x] `.reduce`
+- [x] `.accumulate`
+- [x] `.sum` and `.prod`
+- [x] Broadcasting Rules
+- [x] Boolean Arrays
+- [x] via comparisons
+- [x] counting `.sum` and `.any` and `.all`
+- [x] Masks & use via fancy indexing
 - [ ] Boolean Operators AND `&` and OR `|` and NOT `~` and XOR `^`
-- [ ] Array `.sort` and `.argsort`
+- [x] Array `.sort` and `.argsort`
 
 ## Pandas Syntax & Usage
-- [ ] Objects
-- [ ] `.Series`
+- [x] Objects
+- [x] `.Series`
 - [ ] `.DataFrame`
 - [ ] (`.Index`)
 - [ ] Series object properties
@@ -50,7 +50,7 @@
 - [ ] `.value_counts`
 - [ ] `.index`
 - [ ] `.columns`
-- [ ] Sub-dataframes using Masking, fancy indexing, and `.query`
+- [ ] Sub-DataFrames using Masking, fancy indexing, and `.query`
 - [ ] Missing values `Nan` and use of `.dropna`
 - [ ] DataFrame as
 - [ ] list of Series

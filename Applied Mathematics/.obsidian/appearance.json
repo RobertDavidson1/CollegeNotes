@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "cssTheme": "Things",
+  "enabledCssSnippets": [
+    "color-blocks",
+    "center_images",
+    "callouts",
+    "spacing"
+  ],
+  "interfaceFontFamily": "CMU Serif",
+  "baseFontSize": 21,
+  "textFontFamily": "CMU Serif",
+  "theme": "obsidian"
+}

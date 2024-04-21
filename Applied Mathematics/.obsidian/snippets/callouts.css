@@ -1,0 +1,8 @@
+.callout[data-callout="eq"] {
+    --callout-color: 55, 65, 77;
+    --callout-icon: lucide-infinity;
+}
+
+.markdown-preview-view .tag {
+    display: none;
+}
