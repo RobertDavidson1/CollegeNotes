@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability/Conditional Probability.md",
+                "file": "Recap/Recap Contents.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability/Conditional Probability.md",
+                "file": "Recap/Recap Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability/Conditional Probability.md",
+                "file": "Recap/Recap Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability/Conditional Probability.md"
+                "file": "Recap/Recap Contents.md"
               }
             }
           }
@@ -151,16 +151,21 @@
   },
   "active": "b4f85e2510ef4fdf",
   "lastOpenFiles": [
-    "Probability/Probability Contents.md",
-    "Recap/Integration.md",
-    "Recap/Recap Contents.md",
     "Recap/Induction + Probability.md",
+    "Recap/Recap Contents.md",
+    "Recap/Polynomials.md",
+    "Recap/Groups, Rings and Fields.md",
+    "Recap/Permutations.md",
     "Recap/Logic.md",
-    "Recap/Types of Numbers.md",
     "Recap/Series + Sequences.md",
-    "Recap/Set Properties.md",
     "Recap/Types of Correspondence.md",
+    "Recap/Numbers and Set Properties.md",
     "Recap/Number Theorems.md",
+    "Recap/Types of Numbers.md",
+    "Recap/Integration.md",
+    "Probability/Conditional Probability.md",
+    "Probability/Probability Contents.md",
+    "Recap/Set Properties.md",
     "Number Theory/Number Theory Contents.md",
     "Untitled.md",
     "Number Theory/Injective, Surjective, Bijective.md",
@@ -179,12 +184,7 @@
     "Recap/Series Properties.md",
     "Series/Convergence is a precise concept.md",
     "Series/Convergence of a sequence 2024-03-13 12.46.46.excalidraw.md",
-    "Series/Examples of Series.md",
-    "Series/Looking at specific sequences.md",
-    "Series/Monotone Convergence Theorem.md",
     "Series/Pasted image 20240313122449.png",
-    "Series/Visualising a sequence.md",
-    "Series/Ways for a sequence to be divergent.md",
     "Recap",
     "Probability/Pasted image 20240322113636.png",
     "Probability/Pasted image 20240321162707.png",
