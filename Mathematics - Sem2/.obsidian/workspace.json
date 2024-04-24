@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f146131f0edf9596",
+        "id": "7744d3a86fd4c69e",
         "type": "tabs",
         "children": [
           {
-            "id": "b4f85e2510ef4fdf",
+            "id": "96a7306c01cc916e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Recap/Recap Contents.md",
                 "mode": "source",
+=======
+                "file": "Recap/Induction + Probability.md",
+                "mode": "preview",
+>>>>>>> ff374a94d5abbe42ea74fb62d9df43dbb225bd02
                 "backlinks": false,
                 "source": false
               }
@@ -49,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "injective",
+                "query": "permu",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +92,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Recap/Recap Contents.md",
+=======
+                "file": "Recap/Induction + Probability.md",
+>>>>>>> ff374a94d5abbe42ea74fb62d9df43dbb225bd02
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +113,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Recap/Recap Contents.md",
+=======
+                "file": "Recap/Induction + Probability.md",
+>>>>>>> ff374a94d5abbe42ea74fb62d9df43dbb225bd02
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Recap/Recap Contents.md"
+=======
+                "file": "Recap/Induction + Probability.md"
+>>>>>>> ff374a94d5abbe42ea74fb62d9df43dbb225bd02
               }
             }
           }
@@ -149,8 +166,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4f85e2510ef4fdf",
+  "active": "96a7306c01cc916e",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Recap/Induction + Probability.md",
     "Recap/Recap Contents.md",
     "Recap/Polynomials.md",
@@ -160,6 +178,24 @@
     "Recap/Series + Sequences.md",
     "Recap/Types of Correspondence.md",
     "Recap/Numbers and Set Properties.md",
+=======
+    "Recap/Recap Contents.md",
+    "Recap/Permutations.md",
+    "Algebra/Equivalence Relations are Partitions.md",
+    "Algebra/Bijections of Partitions and Subsets.md",
+    "Probability/Bayes Theorem.md",
+    "Recap/Groups, Rings and Fields.md",
+    "Recap/Logic.md",
+    "Recap/Types of Correspondence.md",
+    "Recap/Series + Sequences.md",
+    "Recap/Integration.md",
+    "Algebra/Algebra Contents.md",
+    "Probability/Conditional Probability.md",
+    "Probability/Probability Contents.md",
+    "Recap/Induction + Probability.md",
+    "Recap/Types of Numbers.md",
+    "Recap/Set Properties.md",
+>>>>>>> ff374a94d5abbe42ea74fb62d9df43dbb225bd02
     "Recap/Number Theorems.md",
     "Recap/Types of Numbers.md",
     "Recap/Integration.md",
@@ -170,7 +206,6 @@
     "Untitled.md",
     "Number Theory/Injective, Surjective, Bijective.md",
     "Series/Sequences and Series Contents.md",
-    "Algebra/Algebra Contents.md",
     "Algebra/Injective and Surjective Functions.md",
     "Recap/Images/TypesOf Numbers.png",
     "Recap/Images/TruthTable2.png",
@@ -183,7 +218,10 @@
     "Recap/Pasted image 20240328114157.png",
     "Recap/Series Properties.md",
     "Series/Convergence is a precise concept.md",
+<<<<<<< HEAD
     "Series/Convergence of a sequence 2024-03-13 12.46.46.excalidraw.md",
+=======
+>>>>>>> ff374a94d5abbe42ea74fb62d9df43dbb225bd02
     "Series/Pasted image 20240313122449.png",
     "Recap",
     "Probability/Pasted image 20240322113636.png",

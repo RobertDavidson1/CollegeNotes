@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contents/Sound.md",
+                "file": "Contents/Optical Instruments.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contents/Pasted image 20240411201058.png",
+                "file": "Contents/Optical Instruments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Contents/Pasted image 20240411201058.png",
+                "file": "Contents/Optical Instruments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Contents/Pasted image 20240411201058.png"
+                "file": "Contents/Optical Instruments.md"
               }
             }
           },
@@ -191,26 +190,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "764a321c4c6adc24",
+  "active": "efe5a0e23bad2331",
   "lastOpenFiles": [
-    "Contents/Sound.md",
     "Contents/Physics Contents.md",
+    "Contents/Lenses.md",
+    "Contents/Electric Charge.md",
+    "Contents/Definitions.md",
+    "Contents/Sound.md",
+    "Contents/Pasted image 20240411201058.png",
     "Contents/Refraction.md",
     "Contents/Mirrors.md",
     "Contents/Waves.md",
-    "Contents/Definitions.md",
     "Contents/Circuits and Resistance.md",
     "Contents/Double Slit Experiments.md",
     "Excalidraw/Drawing 2024-04-13 13.34.50.excalidraw.md",
     "Excalidraw",
-    "Contents/Lenses.md",
     "Contents/Flash Cards.md",
     "Contents/Electric Potential.md",
     "Contents/Photoelectric Effect.md",
     "Contents/DeBroglie.md",
     "Contents/Optical Instruments.md",
-    "Contents/Electric Charge.md",
-    "Contents/Pasted image 20240411201058.png",
     "Contents/tesf.md",
     "Contents/The Eye.md",
     "Contents/Light Definitions.md",
@@ -220,7 +219,6 @@
     "Contents/Interference.md",
     "Contents/Radioactivity.md",
     "Contents/Bohr Model.md",
-    "Contents/Wave Optics.md",
     "Contents/Pasted image 20240409215829.png",
     "Contents"
   ]
