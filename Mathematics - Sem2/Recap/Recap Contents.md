@@ -17,4 +17,5 @@
 - [[Polynomials]]
 
 **Tools**
-- [[Induction + Probability]]
+- [[Induction]]
+- [[Probability]]
