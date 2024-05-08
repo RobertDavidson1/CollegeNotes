@@ -1,0 +1,11 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="661.3333740234375" height="151.6666717529297" style="
+        width:661.3333740234375px;
+        height:151.6666717529297px;
+        background: #FFF;
+        fill: none;
+">
+        
+        
+        <svg xmlns="http://www.w3.org/2000/svg" class="role-diagram-draw-area"><g class="shapes-region" style="stroke: black; fill: none;"><g class="arrow-line"><path class="connection real" stroke-dasharray="" d="  M159,20 C161,159 309,147 310,22" style="stroke: rgb(0, 0, 0); stroke-width: 2px; fill: none; fill-opacity: 1;"/></g><g class="arrow-line"><path class="connection real" stroke-dasharray="" d="  M160,122 L310,122" style="stroke: rgb(144, 19, 254); stroke-width: 3px; fill: none; fill-opacity: 1; stroke-opacity: 1;"/></g><g class="arrow-line"><path class="connection real" stroke-dasharray="" d="  M510,122 C510.09,-17.01 362.88,-2.97 360,122" style="stroke: rgb(0, 0, 0); stroke-width: 2px; fill: none; fill-opacity: 1;"/></g><g class="arrow-line"><path class="connection real" stroke-dasharray="" d="  M510,22 L360,22" style="stroke: rgb(208, 2, 27); stroke-opacity: 1; stroke-width: 3px; fill: none; fill-opacity: 1;"/></g><g/></g><g/><g/><g/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="660" height="150.3333282470703" style="width:660px;height:150.3333282470703px;font-family:Asana-Math, Asana;background:#FFF;"></svg>
+</svg>

@@ -1,0 +1,4 @@
+- A **public key cryptosystem** is one in which each user publishes numerical information which enables any other user to encode messages, but does not give away enough information to allow anyone else to decode them
+- A famous such system is the so called **RSA Cryptosystem**. Its based on two main mathematical facts:
+	- While it’s easy to multiply numbers together, it is **hard** to find prime factors of **very large numbers**
+	- **Euler’s totient theorem**

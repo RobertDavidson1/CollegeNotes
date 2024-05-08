@@ -1,0 +1,37 @@
+
+- [ ]  **Financial Calculus: An Introduction to Derivative Pricing** by Baxter
+- [ ] **An Introduction to the Mathematics of Financial Derivatives** by Neftci
+- [ ] **Basics of Financial Mathematics**
+- [ ] **Mathematics for Finance - An Introduction to Financial Engineering** by Capinski
+- [ ] **Introduction to Quantitative Finance**
+- [ ] **An Introduction to Financial Mathematics** by Elliott
+- [ ] **The Mathematics of Financial Derivatives**
+- [ ] **Applied Quantitative Finance**
+- [ ] **Mathematical Finance** by Fries
+- [ ] **Martingale Methods in Financial Modelling** by Musiela
+- [ ] **Arbitrage Theory in Continuous Time** by Björk
+- [ ] **Bayesian Methods in Finance**
+- [ ] ** Binomial Models in Finance**
+- [ ] **Computational Finance Numerical Methods**
+- [ ] **Copula Methods in Finance**
+- [ ] **Financial Econometrics: Modeling Derivatives - Pricing**
+- [ ] **Financial Engineering & Computation - Principles, Mathematics & Algorithms**
+- [ ] **From Stochastic Calculus to Mathematical Finance** by Kabanov
+- [ ] **Inside Volatility Arbitrage** by Javaheri
+- [ ] **Introduction to Computational Finance without Agonizing Pain**
+- [ ] **Introduction to Mathematical Finance** by Pliska
+- [ ] **Introduction to Mathematical Finance** by Ross
+- [ ] **Mathematical Economics and Finance** by Harrison & Waldron
+- [ ] **Mathematics of Financial Markets** by Elliott
+- [ ] **Methods of Mathematical Finance** by Karatzas & Shreve
+- [ ] **Monte-Carlo Methods In Finance** by Jackel
+- [ ] **Neural Networks in Finance: Gaining Predictive Edge in the Market** by McNelis
+- [ ] **Nonlinear Optimization with Financial Applications**
+- [ ] **Numerical Methods in Finance and Economics: A MATLAB Based Introduction** by Brandimarte
+- [ ] **Optimal Control Models in Finance: A New Computational Approach**
+- [ ] **Paul Wilmott on Quantitative Finance**
+- [ ] **Quantitative Finance for Physicists - An Introduction**
+- [ ] **Quantitative Trading**
+- [ ] **Structured Finance: The Object Oriented Approach**
+- [ ] **The Mathematics Of Financial Derivatives**
+- [ ] **The Mathematics of Financial Modelling** by Fabozzi

@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "aed83f58295aee2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc421e32b6f2b65a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bd6939cda48c73f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contents.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57a72633419f53a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "abf7cfa4fa305582",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ff29b90d0869256",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cc3f2ff4aaf1c84",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "04d38269e0cda53d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3dae03cddb6ebec7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "92397385e0eaeeca",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b4de6f789bceed4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e5d161ad05334f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Contents.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8305452b8eb38387",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Contents.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bb64a5bff3002ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9d8b26ac1d1155ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Contents.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "57a72633419f53a4",
+  "lastOpenFiles": [
+    "Linear Algebra/Matrices/Linear Equations.md",
+    "Linear Algebra/Matrices/Linear Algebra.md",
+    "Linear Algebra/Mod Arithmetic/Modular Arithmetic.md",
+    "Linear Algebra/Matrices/Inverse Matrix.md",
+    "Linear Algebra/Matrices/Intro to Transformations.md",
+    "Linear Algebra/Matrices/Gaussian Elimination for Inverses.md",
+    "Linear Algebra/Matrices/Example Problem 2.md",
+    "Linear Algebra/Matrices/Example Problem 1.md",
+    "Linear Algebra/Matrices/Arithmetic Properties.md",
+    "Linear Algebra/Matrices/When does a solution exist 2023-10-31 16.59.58.excalidraw.md",
+    "Linear Algebra/Matrices/Zero, Diagonal, Identity Matrices.md",
+    "Linear Algebra/Matrices/When does a solution exist 2023-10-31 16.53.01.excalidraw.md",
+    "Linear Algebra/Matrices/When does a solution exist.md",
+    "Linear Algebra/Matrices/Standard basis vectors.md",
+    "Linear Algebra/Matrices/Rotations.md",
+    "Linear Algebra/Matrices/Matrix of a Linear Transformation.md",
+    "Linear Algebra/Matrices/Reflections.md",
+    "Linear Algebra/Matrices/Matrix Transformations + Examples.md",
+    "Linear Algebra/Matrices/Matrices Intro.md",
+    "Linear Algebra/Matrices/Matrices as Linear Equations.md",
+    "Probability/Probability Contents.md",
+    "Series/Sequences and Series Contents.md",
+    "Algebra/Algebra Contents.md",
+    "Number Theory/Number Theory Contents.md",
+    "Recap/Contents.md",
+    "Contents.md",
+    "Series/Pasted image 20240313122440.png",
+    "Series/Pasted image 20240313122719.png",
+    "Series/Pasted image 20240313122449.png",
+    "Series",
+    "Recap of The Basics/Images/Pasted image 20240215171530.png",
+    "Recap of The Basics/Images/Pasted image 20240123160517.png",
+    "Recap of The Basics/Images/Screenshot-2024-01-10-165926.png",
+    "Recap of The Basics/Images/Pasted image 20240123160636.png",
+    "Recap of The Basics/Images/Pasted image 20240110165929.png",
+    "Recap of The Basics/Images/Pasted image 20231208113317.png",
+    "Recap of The Basics/Images/Pasted image 20231208112258.png",
+    "Recap of The Basics/Images",
+    "Recap of The Basics",
+    "Recap/Images",
+    "Recap",
+    "Probability",
+    "Number Theory/Excalidraw",
+    "Number Theory",
+    "Linear Algebra/Matrices/Images",
+    "Linear Algebra/Matrices"
+  ]
+}

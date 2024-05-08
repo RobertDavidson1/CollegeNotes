@@ -1,0 +1,2 @@
+> [!eq] $\\$
+> We write $lim_{x\to a}\;f(x) = L$ and say *"the limit as f(x) as $x$ approaches $a$, equals $L$"* if it's possible **to make the values of f(x) arbitrarily close to L,** by taking x to be sufficiently close to a

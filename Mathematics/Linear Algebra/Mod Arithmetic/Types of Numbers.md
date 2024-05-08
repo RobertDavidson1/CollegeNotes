@@ -1,0 +1,4 @@
+- Natural Numbers (N) = {1,2,3..}
+- Integers (Z) = {-2,-1,0,1,2}
+- Rational (Q) = {a/b : a,b ∈ Z, b != 0}
+- Real (R) = N c Z c Q c R

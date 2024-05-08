@@ -1,0 +1,6 @@
+- Matrix Properties are as follows (provided they can be performed):
+	- $A + B = B + A$
+	- $A + (B + C) = (A + B) + C$
+	- $A(BC) = (AB)C$
+	- $A(B + C) = AB + AC$
+	- $(B + C)A = BA + CA$
