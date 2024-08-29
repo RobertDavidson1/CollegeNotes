@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tester.md",
+                "file": "testa.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tester.md",
+                "file": "testa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tester.md",
+                "file": "testa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tester.md"
+                "file": "testa.md"
               }
             }
           }
@@ -188,7 +188,7 @@
   "active": "16424ddf37400e04",
   "lastOpenFiles": [
     "hi.md",
-    "tester.md",
+    "testa.md",
     "Welcome.md"
   ]
 }
