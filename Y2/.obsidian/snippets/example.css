@@ -1,0 +1,4 @@
+.callout[data-callout="example"] {
+    --callout-color: 80, 80, 80;
+    --callout-icon: book;
+}

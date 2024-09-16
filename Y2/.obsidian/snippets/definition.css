@@ -1,0 +1,4 @@
+.callout[data-callout="def"] {
+    --callout-color: 50, 70, 150;
+    --callout-icon: lightbulb;
+}
