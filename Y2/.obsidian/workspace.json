@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem1/Semester 1.md",
+                "file": "Sem1/OOP/Input Output.md",
                 "mode": "preview",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem1/Semester 1.md",
+                "file": "Sem1/OOP/Input Output.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem1/Semester 1.md",
+                "file": "Sem1/OOP/Input Output.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem1/Semester 1.md"
+                "file": "Sem1/OOP/Input Output.md"
               }
             }
           }
@@ -174,20 +174,23 @@
   },
   "active": "16424ddf37400e04",
   "lastOpenFiles": [
+    "Sem1/OOP/OOP I.md",
+    "Sem1/OOP/Input Output.md",
+    "Sem1/Semester 1.md",
+    "Sem1/Mathematical Methods/Chain Rule.md",
+    "Sem1/Mathematical Methods/CR example.md",
+    "Sem1/Mathematical Methods/Mathematical Methods.md",
     "Sem1/Statistics.md",
     "Sem1/Statistics/Statistics.md",
     "Sem1/Statistics",
     "Sem1/Programming For Finance/Statistics",
     "Sem1/Programming For Finance/Programming For Finance.md",
     "Sem1/Programming For Finance",
-    "Sem1/Semester 1.md",
     "Sem1/Discrete Maths/Discrete Mathematics.md",
     "Sem1/Discrete Maths/Counting.md",
     "Sem1/Discrete Maths/Counting with Sets.md",
     "Sem1/Programming For Finance.md",
-    "Sem1/OOP/OOP I.md",
     "Sem1/Differential Forms/Differential Forms.md",
-    "Sem1/Mathematical Methods/Mathematical Methods.md",
     "Sem1/Mathematical Methods/Excalidraw/Introduction to Partial Differential Equations 2024-09-09 15.34.07.excalidraw.md",
     "Sem1/Discrete Maths/Power Set.md",
     "Sem1/Discrete Maths/Principle of Inclusion and Exclusion.md",
@@ -202,11 +205,8 @@
     "Sem1/Discrete Maths",
     "Sem1/Differential Forms/Linear Maps.md",
     "Sem1/Differential Forms/Planes 2024-09-09 15.57.24.excalidraw.md",
-    "Sem1/Differential Forms/Planes.md",
     "Sem1/Differential Forms",
-    "Contents.md",
     "Sem1",
-    "Sem1/Mathematical Methods/Introduction to Partial Differential Equations.md",
     "Sem1/Mathematical Methods",
     "Sem1/Mathematical Methods/Excalidraw",
     "Sem2"
