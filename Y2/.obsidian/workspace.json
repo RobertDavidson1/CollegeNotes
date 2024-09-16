@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem1/Statistics.md",
-                "mode": "source",
+                "file": "Sem1/Semester 1.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem1/Statistics.md",
+                "file": "Sem1/Semester 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem1/Statistics.md",
+                "file": "Sem1/Semester 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem1/Statistics.md"
+                "file": "Sem1/Semester 1.md"
               }
             }
           }
@@ -174,11 +174,16 @@
   },
   "active": "16424ddf37400e04",
   "lastOpenFiles": [
+    "Sem1/Statistics.md",
+    "Sem1/Statistics/Statistics.md",
+    "Sem1/Statistics",
+    "Sem1/Programming For Finance/Statistics",
+    "Sem1/Programming For Finance/Programming For Finance.md",
+    "Sem1/Programming For Finance",
     "Sem1/Semester 1.md",
     "Sem1/Discrete Maths/Discrete Mathematics.md",
     "Sem1/Discrete Maths/Counting.md",
     "Sem1/Discrete Maths/Counting with Sets.md",
-    "Sem1/Statistics.md",
     "Sem1/Programming For Finance.md",
     "Sem1/OOP/OOP I.md",
     "Sem1/Differential Forms/Differential Forms.md",
@@ -204,8 +209,6 @@
     "Sem1/Mathematical Methods/Introduction to Partial Differential Equations.md",
     "Sem1/Mathematical Methods",
     "Sem1/Mathematical Methods/Excalidraw",
-    "Sem2",
-    "testa.md",
-    "hi.md"
+    "Sem2"
   ]
 }
