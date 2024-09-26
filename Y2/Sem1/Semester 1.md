@@ -1,7 +1,7 @@
 ## Subjects 
 - [[Mathematical Methods]]
 - [[Differential Forms]]
-- [[OOP I]]
+- [[OOP I 1]]
 - [[Programming For Finance]]
 - [[Statistics]]
-- [[Discrete Mathematics]]
+- [[Sem1/OOP/Discrete Mathematics]]
