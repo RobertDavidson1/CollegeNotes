@@ -1,5 +1,9 @@
 {
   "attachmentFolderPath": "./",
+<<<<<<< HEAD
   "newFileLocation": "current",
   "alwaysUpdateLinks": true
+=======
+  "newFileLocation": "current"
+>>>>>>> e2ff18c (new notes)
 }

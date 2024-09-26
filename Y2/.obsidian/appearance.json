@@ -1,10 +1,14 @@
 {
   "cssTheme": "Primary",
   "enabledCssSnippets": [
+<<<<<<< HEAD
     "center",
     "example",
     "definition",
     "explain"
+=======
+    "center"
+>>>>>>> e2ff18c (new notes)
   ],
   "baseFontSize": 22,
   "textFontFamily": "CMU Serif",

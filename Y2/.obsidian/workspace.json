@@ -13,8 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Sem1/OOP/Input Output.md",
                 "mode": "preview",
+=======
+                "file": "Sem1/Counting.md",
+                "mode": "source",
+>>>>>>> e2ff18c (new notes)
                 "source": false
               }
             }
@@ -23,6 +28,7 @@
             "id": "e2f1ff97d6dda572",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "markdown",
               "state": {
                 "file": "Sem1/Discrete Maths/Power Set.md",
@@ -41,6 +47,10 @@
                 "mode": "source",
                 "source": false
               }
+=======
+              "type": "empty",
+              "state": {}
+>>>>>>> e2ff18c (new notes)
             }
           }
         ]
@@ -110,7 +120,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Sem1/OOP/Input Output.md",
+=======
+                "file": "Sem1/Counting.md",
+>>>>>>> e2ff18c (new notes)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +141,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Sem1/OOP/Input Output.md",
+=======
+                "file": "Sem1/Counting.md",
+>>>>>>> e2ff18c (new notes)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +168,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Sem1/OOP/Input Output.md"
+=======
+                "file": "Sem1/Counting.md"
+>>>>>>> e2ff18c (new notes)
               }
             }
           }
@@ -174,6 +196,7 @@
   },
   "active": "16424ddf37400e04",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Sem1/OOP/OOP I.md",
     "Sem1/OOP/Input Output.md",
     "Sem1/Semester 1.md",
@@ -210,5 +233,30 @@
     "Sem1/Mathematical Methods",
     "Sem1/Mathematical Methods/Excalidraw",
     "Sem2"
+=======
+    "Sem1/Discrete Mathematics.md",
+    "Sem1/Counting.md",
+    "Sem1/Semester 1.md",
+    "Sem1/OOP I.md",
+    "Sem1/Variables, Data Types, Operators.md",
+    "Sem1/Number Guessing Game.md",
+    "Sem1/Hello Word.md",
+    "Sem1/Differential Forms/Differential Forms.md",
+    "Sem1/Differential Forms/Linear Maps.md",
+    "Sem1/Differential Forms/Planes 2024-09-09 15.57.24.excalidraw.md",
+    "Sem1/Mathematical Methods/Excalidraw/Introduction to Partial Differential Equations 2024-09-09 15.34.07.excalidraw.md",
+    "Sem1/Differential Forms/Planes.md",
+    "Sem1/Differential Forms",
+    "Contents.md",
+    "Sem1",
+    "Sem1/Mathematical Methods/Introduction to Partial Differential Equations.md",
+    "Sem1/Mathematical Methods",
+    "Sem1/Mathematical Methods/Excalidraw",
+    "Sem1/Mathematical Methods/Mathematical Methods.md",
+    "Sem2",
+    "testa.md",
+    "hi.md",
+    "Welcome.md"
+>>>>>>> e2ff18c (new notes)
   ]
 }
