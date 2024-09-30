@@ -6,3 +6,5 @@
 >- [[Power Set]]
 
 ___
+>[!def] Functions
+>- [[Binomial Coefficients]]

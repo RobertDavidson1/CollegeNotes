@@ -1,2 +1,0 @@
-### Example Questions:
-- There are
