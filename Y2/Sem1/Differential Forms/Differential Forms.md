@@ -1,8 +1,10 @@
-<<<<<<< HEAD
-#subject
-[[Planes]]
 
-=======
 [[Planes]]
->>>>>>> e2ff18c (new notes)
 [[Linear Maps]]
+[[1-Forms]]
+[[Manifold]]
+[[Tangent Space]]
+[[Vector Space and Basis]]
+
+#subject
+

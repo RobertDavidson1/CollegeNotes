@@ -8,3 +8,5 @@
 ___
 >[!def] Functions
 >- [[Binomial Coefficients]]
+>- [[Pascal's Triangle]]'
+>- [[Permutations]]
