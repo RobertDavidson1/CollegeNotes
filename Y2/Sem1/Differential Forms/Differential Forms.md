@@ -1,10 +1,10 @@
-
-[[Planes]]
-[[Linear Maps]]
-[[1-Forms]]
-[[Manifold]]
-[[Tangent Space]]
-[[Vector Space and Basis]]
+>[!def] Topics
+> - [[Planes]]
+> - [[Linear Maps]]
+> - [[1-Forms]]
+> - [[Manifold]]
+> - [[Tangent Space]]
+> - [[Vector Space and Basis]]
 
 >[!example] Worked Questions
 >- [[Directional derivative given a vector]]
@@ -13,4 +13,3 @@
 >- [[Mock Test]]
 
 #subject
-

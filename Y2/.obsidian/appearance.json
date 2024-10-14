@@ -1,3 +1,11 @@
 {
-  "cssTheme": "Primary"
+  "cssTheme": "Catppuccin",
+  "enabledCssSnippets": [
+    "center",
+    "definition",
+    "example",
+    "explain",
+    "bold-italic"
+  ],
+  "nativeMenus": false
 }

@@ -4,7 +4,6 @@
 - The directional derivative requires a unit vector in the direction of $\mathbf{v} = \langle 3, -4 \rangle$
 - Find the magnitude of $\mathbf{v}$ 
 	$$||\mathbf{v} || = \sqrt{3^2 + (-4^2)} = \sqrt{25} = 5$$
-- Then, the unit vector $\mathbf{u}$ is:
 $$\mathbf{u} = \dfrac{\mathbf{v}}{||\mathbf{v}||} = \langle \frac{3}{5}, - \frac{4}{5}\rangle$$
 ___
 # 2. Compute gradient of the function $\nabla f(x,y)$

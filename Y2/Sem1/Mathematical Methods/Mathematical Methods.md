@@ -1,10 +1,10 @@
-<<<<<<< HEAD
-#subject
+
 >[!def] Theorems 
->- [[Chain Rule]]
+>- [[Chain Rule | Chain Rule]]
 
 
 - [[Introduction to Partial Differential Equations]]
-=======
-[[Introduction to Partial Differential Equations]]
->>>>>>> e2ff18c (new notes)
+- [[Introduction to Partial Differential Equations]]
+
+
+#subject

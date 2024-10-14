@@ -5,9 +5,9 @@
 
 >[!def] Basis Vectors
 >A set of vectors that:
->- **Span the vector space** 
+>- ***Span the vector space*** 
 >	- Any vector in the vector space can be written as a linear combination of the basis vectors
->- **Are linearly independent**
+>- ***Are linearly independent***
 >	- No vector in the basis can be written as a linear combination of the others
 
 >[!example] Example : Basis in $R^2$
