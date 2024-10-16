@@ -1,5 +1,5 @@
 .callout[data-callout='example'] {
     --callout-color: 237, 135, 150;
-
+    --callout-color: 138, 173, 244;
     --callout-icon: book;
 }

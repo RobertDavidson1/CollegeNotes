@@ -1,5 +1,13 @@
 >[!def] Topics
->- [[Intro and Tangent Space]]
+>- [[Manifold]]
+>- [[Vector Space]]
+>- [[Functions and Functionals]]
+>- [[Coordinate Functions]]
+>- [[Tangent Space Intro]]
+>- [[Directional Derivatives]]
+>- [[Differential One Form]]
+
+[[Intro and Tangent Space]]
 
 
 
@@ -21,30 +29,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
->[!def] Topics
-> - [[Smoothness and smoothness classes]]
-> - [[Planes]]
-> - [[Linear Maps]]
-> - [[1-Forms]]
-> - [[Manifold]]
-> - [[Tangent Space]]
-> - [[Vector Space and Basis]]
 
 >[!example] Worked Questions
 >- [[Directional derivative given a vector]]
