@@ -1,4 +1,5 @@
 >[!def] Topics
+> - [[Smoothness and smoothness classes]]
 > - [[Planes]]
 > - [[Linear Maps]]
 > - [[1-Forms]]

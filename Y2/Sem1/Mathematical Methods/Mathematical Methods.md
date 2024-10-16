@@ -3,8 +3,8 @@
 >- [[Chain Rule | Chain Rule]]
 
 
-- [[Introduction to Partial Differential Equations]]
-- [[Introduction to Partial Differential Equations]]
-
+>[!def] Methods
+>- [[Find and Classify Stationary Points]]
+>- [[Local Min or Max (Lagrange)]]
 
 #subject

@@ -7,5 +7,7 @@
     "explain",
     "bold-italic"
   ],
-  "nativeMenus": false
+  "nativeMenus": false,
+  "theme": "obsidian",
+  "textFontFamily": "ProFont IIx Nerd Font"
 }

@@ -1,8 +1,10 @@
-## Subjects 
+### Maths:
 - [[Mathematical Methods]]
 - [[Differential Forms]]
-- [[OOP I]]
-- [[Programming For Finance]]
 - [[Statistics]]
 - [[Discrete Mathematics]]
+___
+### Programming
+- [[OOP I]]
+- [[Programming For Finance]]
 
