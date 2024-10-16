@@ -1,4 +1,43 @@
 >[!def] Topics
+>- [[Intro and Tangent Space]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>[!def] Topics
 > - [[Smoothness and smoothness classes]]
 > - [[Planes]]
 > - [[Linear Maps]]

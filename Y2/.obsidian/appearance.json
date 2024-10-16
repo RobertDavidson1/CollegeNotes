@@ -5,9 +5,12 @@
     "definition",
     "example",
     "explain",
-    "bold-italic"
+    "bold-italic",
+    "bgger-math",
+    "bigger-math"
   ],
   "nativeMenus": false,
   "theme": "obsidian",
-  "textFontFamily": "ProFont IIx Nerd Font"
+  "textFontFamily": "CMU Serif",
+  "baseFontSize": 20
 }
