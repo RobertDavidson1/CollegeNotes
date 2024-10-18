@@ -8,17 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#theory  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
       "query": "tag:#subject  ",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 16711680
       }
     }
   ],
@@ -32,6 +25,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4444444444444444,
-  "close": false
+  "scale": 0.14641033224102024,
+  "close": true
 }
