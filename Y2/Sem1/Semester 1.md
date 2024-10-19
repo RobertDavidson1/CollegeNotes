@@ -1,6 +1,8 @@
 ### Maths:
+#### Calculus:
 - [[Mathematical Methods]]
 - [[Differential Forms]]
+#### Discrete 
 - [[Statistics]]
 - [[Discrete Mathematics]]
 ___

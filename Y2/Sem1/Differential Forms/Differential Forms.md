@@ -1,33 +1,21 @@
 >[!def] Topics
->- [[Manifold]]
->- [[Vector Space]]
->- [[Functions and Functionals]]
->- [[Coordinate Functions]]
->- [[Tangent Space Intro]]
->- [[Directional Derivatives]]
->- [[Differential One Form]]
-
-[[Intro and Tangent Space]]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+>>[!def] Chapter 1
+>>- [[Basis]]
+>>- [[Vector Space]]
+>>- [[Tangent Vector]]
+>>- [[Tangent Space]]
+>>- [[Manifold]]
+>>- [[Functions and Functionals]]
+>>- [[Coordinate Functions]]
+>>- [[Tangent Space Intro]]
+>>- [[Directional Derivatives]]
+>>- [[Dual Space]]
+>>- [[Recap 1 - Differential Forms| Recap 1]]
+>
+>>[!def] Chapter 2 :
+>>- [[Duality and Kronecker Delta]]
+>>- [[Differential One Form]]
+>>- [[Total Differential]]
 
 
 >[!example] Worked Questions

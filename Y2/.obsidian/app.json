@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "Sem1/images"
+  "attachmentFolderPath": "Sem1/images",
+  "promptDelete": false
 }

@@ -6,7 +6,7 @@
 ^99c21b
 
 >[!def] Functionals Definition
->$$\mathcal{F} : \mathbb{V}^n \to \mathbb{R}$$
+>$$\mathcal{F} : \mathbf{V}^n \to \mathbb{R}$$
 >- Takes a vector from the $n$-dimensional [[Vector Space]]
 >- Maps the vector and returns a real number
 >- It takes in a function, and returns out a number
